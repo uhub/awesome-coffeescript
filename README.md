@@ -3,18 +3,23 @@
 A curated list of awesome CoffeeScript frameworks, libraries and software.
 
 * [jashkenas/coffeescript](https://github.com/jashkenas/coffeescript) - Unfancy JavaScript
+* [enyo/dropzone](https://github.com/enyo/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
 * [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
+* [codecombat/codecombat](https://github.com/codecombat/codecombat) - Game for learning how to code.
 * [github/hubot-scripts](https://github.com/github/hubot-scripts) - DEPRECATED, see https://github.com/github/hubot-scripts/issues/1113 for details - optional scripts for hubot, opt in via hubot-scripts.json
 * [docpad/docpad](https://github.com/docpad/docpad) - Empower your website frontends with layouts, meta-data, pre-processors (markdown, jade, coffeescript, etc.), partials, skeletons, file watching, querying, and an amazing plugin system. DocPad will streamline your web development process allowing you to craft full-featured websites quicker than ever before.
+* [Leonidas-from-XIV/node-xml2js](https://github.com/Leonidas-from-XIV/node-xml2js) - XML to JavaScript object converter.
+* [jkbrzt/cloudtunes](https://github.com/jkbrzt/cloudtunes) - Web-based music player for the cloud :cloud: :notes:
 * [leafo/sticky-kit](https://github.com/leafo/sticky-kit) - A jQuery plugin for creating smart sticky elements
 * [js2coffee/js2coffee](https://github.com/js2coffee/js2coffee) - Compile JavaScript to CoffeeScript
-* [michaelficarra/CoffeeScriptRedux](https://github.com/michaelficarra/CoffeeScriptRedux) - :sweat: rewrite of the CoffeeScript compiler with proper compiler design principles and a focus on robustness and extensibility
 * [stevenschobert/instafeed.js](https://github.com/stevenschobert/instafeed.js) - A simple Instagram javascript plugin
+* [michaelficarra/CoffeeScriptRedux](https://github.com/michaelficarra/CoffeeScriptRedux) - :sweat: rewrite of the CoffeeScript compiler with proper compiler design principles and a focus on robustness and extensibility
 * [sstephenson/eco](https://github.com/sstephenson/eco) - Embedded CoffeeScript templates
 * [serkanyersen/ifvisible.js](https://github.com/serkanyersen/ifvisible.js) - [TypeScript port is on the way] Crossbrowser & lightweight way to check if user is looking at the page or interacting with it.
 * [mauricemach/coffeekup](https://github.com/mauricemach/coffeekup) - Markup as CoffeeScript.
 * [soulwire/Coffee-Physics](https://github.com/soulwire/Coffee-Physics) - A simple, lightweight physics engine written in CoffeeScript
 * [bevry/cson](https://github.com/bevry/cson) - CoffeeScript-Object-Notation. Same as JSON but for CoffeeScript objects.
+* [Glavin001/atom-beautify](https://github.com/Glavin001/atom-beautify) - :lipstick: Beautification abstraction package for Atom editor
 * [clutchski/coffeelint](https://github.com/clutchski/coffeelint) - Lint your CoffeeScript.
 * [twilson63/express-coffee](https://github.com/twilson63/express-coffee) - A Template for NodeJs Application using Express, CoffeeScript, Jade, Stylus, Nib
 * [coffeedoc/codo](https://github.com/coffeedoc/codo) - CoffeeScript API documentation generator. It's like YARD but for CoffeeScript!
@@ -22,52 +27,69 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [autotelicum/Smooth-CoffeeScript](https://github.com/autotelicum/Smooth-CoffeeScript) - A book on functional programming in CoffeeScript
 * [rubyjs/core-lib](https://github.com/rubyjs/core-lib) - A port of the Ruby 1.9.3 corelib to coffeescript/javascript/node that conforms to rubyspec.org.
 * [meltingice/CoffeeDrop](https://github.com/meltingice/CoffeeDrop) - CoffeeDrop is an open-source, roll your own, Dropbox-like clone written in CoffeeScript. Currently not working and under heavy development.
+* [rastapasta/pokemon-go-mitm](https://github.com/rastapasta/pokemon-go-mitm) - 🎁  Pokemon Go MITM Proxy -  Intercepts the traffic between your Pokemon Go app and their servers, decodes the protocol and gives you a handy tool to enrich your own game experience on the fly.
 * [netzpirat/haml-coffee](https://github.com/netzpirat/haml-coffee) - Haml templates where you can write inline CoffeeScript.
 * [sleepyfox/coffeescript-koans](https://github.com/sleepyfox/coffeescript-koans) - Koans: learn CoffeeScript by doing it
 * [jsdf/coffee-react-transform](https://github.com/jsdf/coffee-react-transform) - DEPRECATED – Provides React JSX support for Coffeescript
+* [oozcitak/xmlbuilder-js](https://github.com/oozcitak/xmlbuilder-js) - An XML builder for node.js
+* [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
+* [STRd6/hamlet](https://github.com/STRd6/hamlet) - Simple and powerful reactive templates
 * [joosy/joosy](https://github.com/joosy/joosy) - Joosy is a browser applications framework. That is based on Rails, CoffeeScript and love.
-* [yang/reactive-coffee](https://github.com/yang/reactive-coffee) - A lightweight CoffeeScript library/DSL for reactive programming and declaratively building scalable web UIs
+* [musicplayer-io/redditmusicplayer](https://github.com/musicplayer-io/redditmusicplayer) - :musical_note: A free and open-source streaming music web player using data from Reddit
+* [inferinc/bobtail](https://github.com/inferinc/bobtail) - A lightweight CoffeeScript library/DSL for reactive programming and declaratively building scalable web UIs
 * [crispymtn/linear-partition](https://github.com/crispymtn/linear-partition) - Linear partition in Coffeescript (Javascript)
 * [KyleAMathews/coffee-react-quickstart](https://github.com/KyleAMathews/coffee-react-quickstart) - Quickstart for building React single page apps using Coffeescript, Gulp, Webpack, and React-Router
 * [anodynos/uRequire](https://github.com/anodynos/uRequire) - The Ultimate JavaScript Module Builder & Automagical Task Runner. Convert AMD & CommonJS/NodeJS modules to UMD, AMD, CommonJS or bundle them as `combined.js` (rjs & almond, AMDclean soon) & automagically run/test/watch them on nodejs, Web/AMD or Web/Script. Declarative & DRY config with inheritance. Manipulate & inject dependencies, module code, banners, version etc while building with a single line. Support two kinds of plugins, ResourceConverter (i.e file level) and AfterBuilder (i.e the whole bundle). Transparent support for Coffeescript, IcedCoffeescript, Coco, LiveScript – they’re just JavaScript :-)
 * [lsegal/atom-runner](https://github.com/lsegal/atom-runner) - This package will run various script files inside of Atom. It currently supports JavaScript, CoffeeScript, Ruby, and Python. You can add more.
 * [danielgtaylor/nesh](https://github.com/danielgtaylor/nesh) - An enhanced, extensible interactive shell for Node.js and CoffeeScript
 * [jamis/csmazes](https://github.com/jamis/csmazes) - Maze algorithms implemented in CoffeeScript, with an eye toward demonstrating how the algorithms work by animating them.
+* [php-integrator/atom-base](https://github.com/php-integrator/atom-base) - Atom package that indexes PHP code and exposes services to query it.
 * [audiocogs/alac.js](https://github.com/audiocogs/alac.js) - ALAC decoder, but in Coffeescript
 * [pvande/Milk](https://github.com/pvande/Milk) - Milk is Mustache in CoffeeScript -- great with your browser or NodeJS!
 * [zhuochun/md-writer](https://github.com/zhuochun/md-writer) - ✒️ Make Atom a better Markdown/AsciiDoc editor for writers and bloggers
-* [omarkhan/coffeedoc](https://github.com/omarkhan/coffeedoc) - An API documentation generator for CoffeeScript
 * [raganwald/YouAreDaChef](https://github.com/raganwald/YouAreDaChef) - Coffeescript/Javascript method combinations for Underscore projects
+* [omarkhan/coffeedoc](https://github.com/omarkhan/coffeedoc) - An API documentation generator for CoffeeScript
 * [raganwald/Katy](https://github.com/raganwald/Katy) - CoffeeScript and JavaScript Combinators
+* [tamc/Sankey](https://github.com/tamc/Sankey) - A javascript library for drawing sankey / flow diagrams
+* [markstory/hubot-xmpp](https://github.com/markstory/hubot-xmpp) - XMPP adapter for Hubot
 * [whitequark/ipaddr.js](https://github.com/whitequark/ipaddr.js) - IP address manipulation library in JavaScript (CoffeeScript, actually)
+* [jessepollak/payment](https://github.com/jessepollak/payment) - :moneybag: A jQuery-free general purpose library for building credit card forms, validating inputs and formatting numbers.
 * [TrevorBurnham/Jitter](https://github.com/TrevorBurnham/Jitter) - A simple CoffeeScript compilation utility
 * [iroy2000/react-reflux-boilerplate-with-webpack](https://github.com/iroy2000/react-reflux-boilerplate-with-webpack) - React + Reflux + CoffeeScript + Stylus Boilerplate with Webpack
 * [malgorithms/toffee](https://github.com/malgorithms/toffee) - a NodeJS and browser templating language based on coffeescript, with the slickest syntax ever
-* [jessepollak/payment](https://github.com/jessepollak/payment) - :moneybag: A jQuery-free general purpose library for building credit card forms, validating inputs and formatting numbers.
 * [dbushong/shaky](https://github.com/dbushong/shaky) - Converted dart shaky boxes demo to coffeescript
 * [sstephenson/node-coffee-project](https://github.com/sstephenson/node-coffee-project) - Node.js project template (CoffeeScript + Docco + nodeunit)
 * [tadruj/s3upload-coffee-javascript](https://github.com/tadruj/s3upload-coffee-javascript) - Client Side S3 CORS Upload for Amazon S3 - CoffeeScript and JavaScript Class
-* [frankleenaars/gearsketch](https://github.com/frankleenaars/gearsketch) - GearSketch sandbox in CoffeeScript
 * [benbria/coffee-coverage](https://github.com/benbria/coffee-coverage) - Istanbul and JSCoverage-style instrumentation for CoffeeScript files.
+* [frankleenaars/gearsketch](https://github.com/frankleenaars/gearsketch) - GearSketch sandbox in CoffeeScript
 * [wavded/gedit-coffeescript](https://github.com/wavded/gedit-coffeescript) - gedit Syntax Highlighting for CoffeeScript files
-* [heyadem/stack-up](https://github.com/heyadem/stack-up) - Create fixed width, variable height grid layouts.
-* [soyjavi/monocle](https://github.com/soyjavi/monocle) - Build Awesome CoffeeScript MVC Applications
+* [layerssss/manager-for-upyun](https://github.com/layerssss/manager-for-upyun) - 又拍云资源管理器
+* [heyadem/stack-up](https://github.com/heyadem/stack-up) - Create fixed width, variable height grid layouts
 * [khaled/react-express-template](https://github.com/khaled/react-express-template) - Full stack web app starter template using React, ES6, CoffeeScript, Express, and more
-* [soulwire/Plasmatic-Isosurface](https://github.com/soulwire/Plasmatic-Isosurface) - A 2 dimensional plasma simulation running on the GPU, written in GLSL and CoffeeScript and rendered with WebGL.
 * [goodeggs/teacup](https://github.com/goodeggs/teacup) - Teacup is templates in CoffeeScript
+* [soyjavi/monocle](https://github.com/soyjavi/monocle) - Build Awesome CoffeeScript MVC Applications
+* [soulwire/Plasmatic-Isosurface](https://github.com/soulwire/Plasmatic-Isosurface) - A 2 dimensional plasma simulation running on the GPU, written in GLSL and CoffeeScript and rendered with WebGL.
 * [gjtorikian/biscotto](https://github.com/gjtorikian/biscotto) - UNMAINTAINED. CoffeeScript API documentation tool that uses TomDoc notation.
 * [alecperkins/coffeetable](https://github.com/alecperkins/coffeetable) - A drop-in workbench for experimentation, CoffeeTable is a CoffeeScript-fluent browser console.
 * [fairfieldt/coffeescript-concat](https://github.com/fairfieldt/coffeescript-concat) - A utility that preprocesses and concatenates CoffeeScript source files
+* [koding/kd](https://github.com/koding/kd) - UI Framework for web applications.
+* [joscha/gmailui](https://github.com/joscha/gmailui) - A GMail user interface library
 * [tarruda/vm.js](https://github.com/tarruda/vm.js) - Javascript bytecode compiler and VM implemented in pure coffeescript
-* [twilson63/cakefile-template](https://github.com/twilson63/cakefile-template) - This is a cakefile template for coffeescript, docco and mocha
+* [STRd6/pixel-editor](https://github.com/STRd6/pixel-editor) - It edits pixels
 * [intellinote/swagger-dsl](https://github.com/intellinote/swagger-dsl) - A CoffeeScript-based domain-specific language for generating JSON documents for Swagger.
+* [twilson63/cakefile-template](https://github.com/twilson63/cakefile-template) - This is a cakefile template for coffeescript, docco and mocha
+* [hjr265/node-whois](https://github.com/hjr265/node-whois) - A simple WHOIS client for NodeJS
 * [markuso/kleks](https://github.com/markuso/kleks) - Kleks - Pure CouchDB based CMS as a Couch App using Kanso with CoffeeScript and Stylus. Supports multi-site setup and Markdown authoring.
 * [brikis98/node-backbone-skeleton](https://github.com/brikis98/node-backbone-skeleton) - A skeleton project for creating applications that use node.js server-side, backbone.js client-side, underscore.js templates, CoffeeScript as a JS pre-processor and Compass/SASS as a CSS pre-processor..
 * [openbibleinfo/Bible-Passage-Reference-Parser](https://github.com/openbibleinfo/Bible-Passage-Reference-Parser) - Coffeescript to identify and understand Bible references like "John 3:16."
+* [mtsmfm/hubot-test-helper](https://github.com/mtsmfm/hubot-test-helper) - Helper for testing hubot script
 * [appleboy/html5-template-engine](https://github.com/appleboy/html5-template-engine) - html5 template engine with CoffeeScript, Compass, RequireJS.
 * [mgeraci/Coffee-Filter](https://github.com/mgeraci/Coffee-Filter) - A collection of coffeescript helpers that I've used across projects
 * [abe33/spectacular](https://github.com/abe33/spectacular) - Advanced BDD framework for CoffeeScript and JavaScript
+* [gepoch/linter-write-good](https://github.com/gepoch/linter-write-good) - An Atom linter interface for write-good.
 * [roytruelove/angular-grunt-coffeescript](https://github.com/roytruelove/angular-grunt-coffeescript) -  Seed project for large CoffeeScript AngularJS projects
+* [pughpugh/react-countdown-clock](https://github.com/pughpugh/react-countdown-clock) - HTML5 canvas countdown clock React component
+* [isis97/atom-terminal-panel](https://github.com/isis97/atom-terminal-panel) - Advanced terminal interface for Atom editor
 * [Zorium/zorium](https://github.com/Zorium/zorium) - (╯°□°)╯︵ ┻━┻ The CoffeeScript Web Framework
 * [markbates/Programming-In-CoffeeScript](https://github.com/markbates/Programming-In-CoffeeScript) - Source code for the Programming in CoffeeScript book.
 * [qiao/heap.js](https://github.com/qiao/heap.js) - A binary heap implementation in CoffeeScript/JavaScript.
@@ -81,21 +103,22 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [TobiaszCudnik/compiled-coffee](https://github.com/TobiaszCudnik/compiled-coffee) - CompiledCoffee combines CoffeeScript with TypeScript's type system via the definition files.
 * [andrzejsliwa/coffeeapp](https://github.com/andrzejsliwa/coffeeapp) - not needed any more, couchdb is handling of coffeescript natively https://github.com/bdionne/couchdb/commit/972da5ab71af3eaeb939314a973398b6fe3235a9
 * [wdavidw/node-connect-coffee-script](https://github.com/wdavidw/node-connect-coffee-script) - Connect middleware to serve CoffeeScript files
-* [ichord/angular-coffee-AMD-seed](https://github.com/ichord/angular-coffee-AMD-seed) - angular coffeescript requirejs
 * [kmalakoff/background](https://github.com/kmalakoff/background) - CoffeeScript / JavaScript background job / task / worker library. Provides implementations for jobs, a job queue, a job list, and single and multiple array iterators.
+* [ichord/angular-coffee-AMD-seed](https://github.com/ichord/angular-coffee-AMD-seed) - angular coffeescript requirejs
+* [stephenyeargin/hubot-grafana](https://github.com/stephenyeargin/hubot-grafana) - Query Grafana dashboards.
 * [dweldon/frappe](https://github.com/dweldon/frappe) - template for creating express applications with coffeescript
 * [daynin/wodry](https://github.com/daynin/wodry) - Wodry.js is a simple jQuery plugin for a text flipping/rotating written in CoffeeScript. It was inspired by the Adjector.js. Wodry.js does the same things but it has new features that allow you to set animation from animations collection, set your own callback on content flipping, etc
-* [alecperkins/active-markdown](https://github.com/alecperkins/active-markdown) - A tool for creating Markdown-sourced reactive documents. Literate CoffeeScript meets Tangle.
 * [john-griffin/gibdo](https://github.com/john-griffin/gibdo) - HTML5 Canvas 2D Engine in CoffeeScript
 * [auiWorks/amCoffee](https://github.com/auiWorks/amCoffee) - A CoffeeScript version of the Chrome Console.
-* [mtscout6/vim-cjsx](https://github.com/mtscout6/vim-cjsx) - Vim plugins for CJSX files (CoffeeScript with React JSX)
+* [alecperkins/active-markdown](https://github.com/alecperkins/active-markdown) - A tool for creating Markdown-sourced reactive documents. Literate CoffeeScript meets Tangle.
 * [Boxyco/hackernews-api](https://github.com/Boxyco/hackernews-api) - A RESTful API for news.ycombinator.com written in Coffeescript for node.js
+* [mtscout6/vim-cjsx](https://github.com/mtscout6/vim-cjsx) - Vim plugins for CJSX files (CoffeeScript with React JSX)
 * [meltingice/node-activerecord](https://github.com/meltingice/node-activerecord) - A ORM written in Coffeescript that supports multiple database systems (SQL/NoSQL) and ID generation middleware.
 * [devongovett/coffeepack](https://github.com/devongovett/coffeepack) - An implementation of the MessagePack serialization format in CoffeeScript for Node.js and the browser.
+* [atom/theorist](https://github.com/atom/theorist) - A reactive model toolkit for CoffeeScript
 * [searls/try-jasmine](https://github.com/searls/try-jasmine) - An online sandbox for playing with Jasmine, a bunch of supporting scripts, and Backbone/Underscore/CoffeeScript
 * [jamesdwilson/meteor-jw-opinionated-skeleton](https://github.com/jamesdwilson/meteor-jw-opinionated-skeleton) - A collection of packages and a good starting point for building my next meteor project. You might like it too. :) Coffeescript based
 * [duncansmart/coffeescript-windows](https://github.com/duncansmart/coffeescript-windows) - A shim that allows CoffeeScript to be compiled using Windows Script Host
-* [atom/theorist](https://github.com/atom/theorist) - A reactive model toolkit for CoffeeScript
 * [mikesmullin/coffee-templates](https://github.com/mikesmullin/coffee-templates) - Fastest Minimalist CoffeeScript/JavaScript CoffeeCup/Handlebars/Mustache template engine.
 * [tanepiper/cloud9-livecoffee-ext](https://github.com/tanepiper/cloud9-livecoffee-ext) - A extension for Cloud9ide for CoffeeScript functionality
 * [wmora/angular-espresso](https://github.com/wmora/angular-espresso) - Based on angular-seed, a starting point for writing an AngularJS app running on an Express backend, written in CoffeeScript
@@ -109,12 +132,14 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [barc/express-error](https://github.com/barc/express-error) - Error handler which displays source code in error stack for JavaScript and CoffeeScript.
 * [assaf/sideline](https://github.com/assaf/sideline) - Sideline, a CoffeeScript shell for your server
 * [atom/atomdoc](https://github.com/atom/atomdoc) - Atom's documentation parser for JavaScript / CoffeeScript
+* [yoheimuta/hubot-aws](https://github.com/yoheimuta/hubot-aws) - Hubot masters aws commands
 * [mrluc/macros.coffee](https://github.com/mrluc/macros.coffee) - Lisp-style macros for CoffeeScript
 * [marviq/coffee-jshint](https://github.com/marviq/coffee-jshint) - Runs your CoffeeScript source through JSHint to check for errors.
 * [jprichardson/node-nextflow](https://github.com/jprichardson/node-nextflow) - A simple control-flow library for Node.js targetted towards CoffeeScript developers.
 * [rbrcurtis/cofmon](https://github.com/rbrcurtis/cofmon) - A coffeescript shell for mongodb.
 * [BrunoRB/algorithms.coffee](https://github.com/BrunoRB/algorithms.coffee) - Classic algorithms and data structures in coffeescript. Making the World a better place, with coffee.
 * [wvanbergen/node-vertica](https://github.com/wvanbergen/node-vertica) - Pure javascript Vertica database client. Except it is written in CoffeeScript.
+* [joushx/jQuery.EAN13](https://github.com/joushx/jQuery.EAN13) - A jQuery & plain JavaScript library for generating EAN13-barcodes
 * [imakewebthings/timeline](https://github.com/imakewebthings/timeline) - A generic event timeline for node.js or the browser. Written in CoffeeScript.
 * [iampeter/backbone-marionette-gulp-seed](https://github.com/iampeter/backbone-marionette-gulp-seed) - A seed project using Backbone.js, Marionette.js, Twitter Bootstrap 3, Stylus, Jade and Coffeescript all bundled with Gulp.js
 * [gothamjs/framework](https://github.com/gothamjs/framework) - Coffeescript Framework for front-end development
@@ -129,48 +154,54 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [Radagaisus/Orpheus](https://github.com/Radagaisus/Orpheus) - A Small Object Model for Redis in CoffeeScript
 * [nbartlomiej/coffee-guard-caat-jessie](https://github.com/nbartlomiej/coffee-guard-caat-jessie) - CAAT & CoffeeScript & Jessie & Guard application template
 * [Marak/xp](https://github.com/Marak/xp) - agile programming tools in Coffeescript
-* [boundvariable/coffeescript-in-action](https://github.com/boundvariable/coffeescript-in-action) - Source code for the Manning book CoffeeScript in Action
 * [yeungda/coffeescript-idea](https://github.com/yeungda/coffeescript-idea) - ABANDONED CoffeeScript Plugin for IntelliJ IDEA
 * [raganwald/cafeaulife](https://github.com/raganwald/cafeaulife) - Gosper’s HashLife in CoffeeScript
 * [michaelficarra/cscodegen](https://github.com/michaelficarra/cscodegen) - :recycle: CoffeeScript code generator
 * [LanJian/coffee2d](https://github.com/LanJian/coffee2d) - A HTML5 2D game engine written in CoffeeScript
+* [boundvariable/coffeescript-in-action](https://github.com/boundvariable/coffeescript-in-action) - Source code for the Manning book CoffeeScript in Action
 * [tomblomfield/meteor-chat](https://github.com/tomblomfield/meteor-chat) - Simple chat application using Meteor JS and Coffeescript
 * [stephenb/coffee-machine](https://github.com/stephenb/coffee-machine) - A state machine written in CoffeeScript.
 * [jimjeffers/Easie](https://github.com/jimjeffers/Easie) - Robert Penner's easing equations converted to coffeescript.
 * [f/phaser-coffee-boilerplate](https://github.com/f/phaser-coffee-boilerplate) - Phaser CoffeeScript + Browserify + LiveReload Boilerplate
+* [yusugomori/deeplearning.coffee](https://github.com/yusugomori/deeplearning.coffee) - Simple JavaScript (CoffeeScript) codes implementing deep learning
 * [steelThread/mimeograph](https://github.com/steelThread/mimeograph) - CoffeeScript lib for PDF OCR and text extraction
+* [STRd6/priority_queue](https://github.com/STRd6/priority_queue) - A JavaScript PriorityQueue
 * [plainlystated/coffeescript-rrd](https://github.com/plainlystated/coffeescript-rrd) - coffeescript library for using manipulating RRD files (depends on rrdtool)
 * [naturalethic/coffee-mongo](https://github.com/naturalethic/coffee-mongo) - Model framework for Node.js + CoffeeScript + MongoDB
 * [mikesmullin/coffee-stylesheets](https://github.com/mikesmullin/coffee-stylesheets) - Transpiler similar to SASS/SCSS/LESS/Stylus, except its 100% CoffeeScript!
 * [MichaelBlume/coffeestream](https://github.com/MichaelBlume/coffeestream) - streams in coffeescript
 * [maxatwork/expressjs_template](https://github.com/maxatwork/expressjs_template) - Node + ExpressJS + Coffeescript + Stylus + Twitter bootstrap + Jade + assets pipeline + Mocha + Should + Supertest project template.
+* [ioquatix/script-runner](https://github.com/ioquatix/script-runner) - This package will run various script files inside of Atom. It currently supports JavaScript, CoffeeScript, Ruby, and Python. You can add more.
 * [grncdr/uri-template](https://github.com/grncdr/uri-template) - CoffeeScript/Javascript implementation of RFC 6570 for URI-templates
-* [yusugomori/deeplearning.coffee](https://github.com/yusugomori/deeplearning.coffee) - Simple JavaScript (CoffeeScript) codes implementing deep learning
 * [stevejackson/mazery](https://github.com/stevejackson/mazery) - Maze generation visualizer using html5 Canvas, Coffeescript, jQuery, Compass
 * [kalasjocke/react-coffee-elements](https://github.com/kalasjocke/react-coffee-elements) - Compact React element syntax when using CoffeeScript.
+* [hassaku/hubot-suggest](https://github.com/hassaku/hubot-suggest) - Suggest hubot commands when not found
 * [za-creature/coffeescope](https://github.com/za-creature/coffeescope) - Scope linter for coffeescript
 * [wildownes/CryptoCoffeeBot](https://github.com/wildownes/CryptoCoffeeBot) - Coffeescript base skeleton code that can be used to fork into useful bots for cryptotrader.org
 * [tbeseda/angularjs-for-hipsters](https://github.com/tbeseda/angularjs-for-hipsters) - The AngularJS Todo app ported to CoffeeScript, Jade, and Stylus -- served with Express
 * [quartzmo/mocha-coffeescript-boilerplate](https://github.com/quartzmo/mocha-coffeescript-boilerplate) - A minimalistic template for starting a CoffeeScript project based on visionmedia/mocha tests
 * [Phenome/generator-lean-mean](https://github.com/Phenome/generator-lean-mean) - Yeoman generator. MEAN stack. Coffeescript, Stylus, Jade, Gulp
+* [jysperm/Mabolo](https://github.com/jysperm/Mabolo) - Just a simple ORM of MongoDB API.
 * [f/macaron](https://github.com/f/macaron) - Macros for CoffeeScript
 * [swombat/meteor-todos-coffeescript](https://github.com/swombat/meteor-todos-coffeescript) - Todos example from Meteor JS server, converted to coffeescript, with some tidying up and tweaking
+* [MaksJS/Namespace-in-CoffeeScript](https://github.com/MaksJS/Namespace-in-CoffeeScript) - pattern to simulate namespace in coffeescript
 * [lynaghk/cassowary-coffee](https://github.com/lynaghk/cassowary-coffee) - CoffeeScript port of the Cassowary linear constraint solver
 * [khoomeister/coffee-world](https://github.com/khoomeister/coffee-world) - Watches the current folder to compile CoffeeScript into CSS, HTML & JS
-* [ioquatix/script-runner](https://github.com/ioquatix/script-runner) - This package will run various script files inside of Atom. It currently supports JavaScript, CoffeeScript, Ruby, and Python. You can add more.
 * [franzenzenhofer/robotstxt](https://github.com/franzenzenhofer/robotstxt) - robots.txt parser coffeescript
 * [AtomLinter/linter-coffeelint](https://github.com/AtomLinter/linter-coffeelint) - Linter plugin for CoffeeScript, using coffeelint.
 * [alexspeller/ember-cli-coffees6](https://github.com/alexspeller/ember-cli-coffees6) - Makes using coffeescript nicer in ember-cli by supporting es6 syntax natively
 * [zhenkunou/ionic-nodeclub](https://github.com/zhenkunou/ionic-nodeclub) - a simple ionic starter project, use coffeescript and sass
+* [stephenmcd/grillode](https://github.com/stephenmcd/grillode) - A web-based chat application written in CoffeeScript for Node.js
 * [noonat/intersect](https://github.com/noonat/intersect) - An explanation of 2D collision tests in CoffeeScript
-* [MaksJS/Namespace-in-CoffeeScript](https://github.com/MaksJS/Namespace-in-CoffeeScript) - pattern to simulate namespace in coffeescript
 * [kbroman/d3panels](https://github.com/kbroman/d3panels) - A library of d3-based graphic panels, written in CoffeeScript
 * [jaigouk/nodetuts-coffeescript](https://github.com/jaigouk/nodetuts-coffeescript) - Coffeescript version of nodetuts
+* [georgeOsdDev/slidepad](https://github.com/georgeOsdDev/slidepad) - HTML Slide Generator.
 * [davidpadbury/stirred-coffee](https://github.com/davidpadbury/stirred-coffee) - Macros in CoffeeScript prototype
 * [wesbos/coffeescript-growl](https://github.com/wesbos/coffeescript-growl) - Growl notifications for the Node.js CoffeeScript Compiler
 * [ThibaultLaurens/mean.coffee](https://github.com/ThibaultLaurens/mean.coffee) - coffeescript port of http://mean.io/
 * [swlkr/coffee-pot](https://github.com/swlkr/coffee-pot) - A boilerplate for node.js apps written in coffeescript
-* [stephenmcd/grillode](https://github.com/stephenmcd/grillode) - A web-based chat application written in CoffeeScript for Node.js
+* [shinout/interval-tree2](https://github.com/shinout/interval-tree2) - interval tree in CoffeeScript, available in any JS runtime
+* [php-integrator/atom-autocompletion](https://github.com/php-integrator/atom-autocompletion) - Atom package that provides autocompletion for your PHP source code.
 * [ozankasikci/generator-phaser-coffeescript-gulp](https://github.com/ozankasikci/generator-phaser-coffeescript-gulp) - A yeoman generator for developing games with Phaser framework using coffeescript and gulp. Browserifies, coffeeifies and live reloads using browser-sync.
 * [mkilling/alfamegle](https://github.com/mkilling/alfamegle) - cheap omegle clone in CoffeeScript using Socket.IO
 * [mconintet/brownie](https://github.com/mconintet/brownie) - A canvas toolkit in coffeescript
@@ -178,20 +209,23 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [coffee-js/index.coffee-js.org](https://github.com/coffee-js/index.coffee-js.org) - CoffeeScript 中文资源
 * [the-trash/ExpressOnSteroids](https://github.com/the-trash/ExpressOnSteroids) - Node.js/Express App + CoffeeScript + SASS + JADE (HAML)
 * [rbrcurtis/Brewer](https://github.com/rbrcurtis/Brewer) - a split-pane coffeescript editor that shows the compiled js using the ace editor
-* [conancat/fbscrape](https://github.com/conancat/fbscrape) - Facebook Page Photo Scraper in CoffeeScript and NodeJS
+* [oozcitak/akismet-js](https://github.com/oozcitak/akismet-js) - Akismet API client for node.js
+* [jimmycuadra/shellwords](https://github.com/jimmycuadra/shellwords) - Manipulate strings according to the word parsing rules of the UNIX Bourne shell.
+* [agoragames/leaderboard-coffeescript](https://github.com/agoragames/leaderboard-coffeescript) - Leaderboards backed by Redis in CoffeeScript
 * [snd/react-kup](https://github.com/snd/react-kup) - react-kup is a simple, nonintrusive alternative to JSX for coffeescript
 * [SimonDegraeve/react-coffee-quickstart](https://github.com/SimonDegraeve/react-coffee-quickstart) - React/CoffeeScript project
-* [shinout/interval-tree2](https://github.com/shinout/interval-tree2) - interval tree in CoffeeScript, available in any JS runtime
 * [replit/lol-coffee](https://github.com/replit/lol-coffee) - A LOLCode compiler+VM in CoffeeScript
 * [jaekwon/CoffeeMugg](https://github.com/jaekwon/CoffeeMugg) - HTML templates in pure CoffeeScript
 * [duncansmart/LessCoffee](https://github.com/duncansmart/LessCoffee) - LESS and CoffeeScript HTTP handlers for ASP.NET web sites
 * [croquiscom/crojsdoc](https://github.com/croquiscom/crojsdoc) - A documentation generator for JavaScript and CoffeeScript
+* [conancat/fbscrape](https://github.com/conancat/fbscrape) - Facebook Page Photo Scraper in CoffeeScript and NodeJS
 * [ccorcos/meteor-reactive-css](https://github.com/ccorcos/meteor-reactive-css) - Define reactive CSS rules in Javascript or (preferably) Coffeescript.
-* [agoragames/leaderboard-coffeescript](https://github.com/agoragames/leaderboard-coffeescript) - Leaderboards backed by Redis in CoffeeScript
 * [soswow/lobzik](https://github.com/soswow/lobzik) - Simple application for testing employee candidate code skills and knowledge. Currently it's more suitable for testing front-end, JavaScript/CoffeeScript developers.
 * [khoomeister/coffee-css](https://github.com/khoomeister/coffee-css) - More CSS for CoffeeScript
 * [sergeych/node-prego](https://github.com/sergeych/node-prego) - Minimalistic migrations & models for coffeescript, node.js and postgres
+* [php-integrator/atom-navigation](https://github.com/php-integrator/atom-navigation) - Atom package that provides code navigation and go to functionality for your PHP source code.
 * [mattinsler/caboose](https://github.com/mattinsler/caboose) - Coffeescript-happy express-based server-side MVC framework loosely based on rails
+* [pfefferle/atom-php-cs-fixer](https://github.com/pfefferle/atom-php-cs-fixer) - Run the 'PHP Coding Standards Fixer' within Atom
 * [marcelinhov2/angular-kickoff](https://github.com/marcelinhov2/angular-kickoff) - AngularJS + CoffeeScript + Ng-Classify = s2
 * [kmalakoff/easy-bake](https://github.com/kmalakoff/easy-bake) - EasyBake enables CoffeeScript/JavaScript file-based configuration for your CoffeeScript library management needs (coffee compiling, compression, joining CoffeeScript + JavaScript files, headless testing for QUnit/Jasmine/NodeUnit, client/server version testing, etc).
 * [jbenet/saucer](https://github.com/jbenet/saucer) - coffeescript boilerplate
@@ -203,6 +237,7 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [robhurring/atom-change-case](https://github.com/robhurring/atom-change-case) - atom plugin for node-change-case
 * [PEM--/hellofamousgulped](https://github.com/PEM--/hellofamousgulped) - HelloWord in Famo.us using Gulp.js, Browserify and CoffeeScript. Act as my template for Famo.us.
 * [jawj/pigeonsim](https://github.com/jawj/pigeonsim) - Fly! Courtesy of this small project linking Kinect -> OpenNI -> Processing -> WebSockets -> CoffeeScript -> Google Earth API
+* [hubot-scripts/hubot-darksky](https://github.com/hubot-scripts/hubot-darksky) - A script to grab the forecast information from Dark Sky for Hubot
 * [chrissharkey/pong](https://github.com/chrissharkey/pong) - HTML5 Canvas Pong game in Coffeescript
 * [CaryLandholt/gulp-ng-classify](https://github.com/CaryLandholt/gulp-ng-classify) - Convert CoffeeScript classes to AngularJS modules with ng-classify
 * [spbooks/COFFEESCRIPT1](https://github.com/spbooks/COFFEESCRIPT1) - Jump Start CoffeeScript, code archive
@@ -217,19 +252,23 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [eriwen/brunch-jade-bootstrap-and-coffee](https://github.com/eriwen/brunch-jade-bootstrap-and-coffee) - Brunch skeleton including Bootstrap, SASS, Jade and CoffeeScript
 * [dotmaster/NodeBase](https://github.com/dotmaster/NodeBase) - A node base class for Javascript and Coffeescript (logging, options, defaults and EventEmitter)
 * [devongovett/spellchecker.js](https://github.com/devongovett/spellchecker.js) - A spellchecker in CoffeeScript/JavaScript based on Hunspell
+* [dcollien/Dreamcoat](https://github.com/dcollien/Dreamcoat) - Formerly "AutoScheme". Automatically generates a website colour scheme from a given logo image. Written in literate coffeescript.
 * [coderoshi/NCNRCSBuzzSpec](https://github.com/coderoshi/NCNRCSBuzzSpec) - NodeJS, CouchDB, Neo4j, Redis, CoffeeScript Buzzword Spectacular
 * [julien/espresso-boilerplate](https://github.com/julien/espresso-boilerplate) - Espresso is a little boilerplate you can use to create Express apps along with CoffeeScript, Jade and Stylus. **NOTE** Look at the commit dates and you'll understand that this is old and unmaintained and you should probably not use it :P
 * [JonAbrams/tomljs](https://github.com/JonAbrams/tomljs) - A JavaScript/CoffeeScript parser for TOML, with CoffeeScript Literature
 * [forresto/redux-coffee-boilerplate](https://github.com/forresto/redux-coffee-boilerplate) - Get started with React + Redux + Immutable.js + CoffeeScript + Mocha + webpack
 * [Ezku/coffee-injector](https://github.com/Ezku/coffee-injector) - An asynchronous dependency injection container written in coffeescript.
 * [Evangenieur/CoffeeScript-Demo](https://github.com/Evangenieur/CoffeeScript-Demo) - CoffeeXP : Live CoffeeScript coding experiments with real-time compiled javascript display and script execution
-* [dcollien/Dreamcoat](https://github.com/dcollien/Dreamcoat) - Formerly "AutoScheme". Automatically generates a website colour scheme from a given logo image. Written in literate coffeescript.
 * [dciccale/parsy](https://github.com/dciccale/parsy) - Tiny command line options parser for node.js in CoffeeScript
 * [bencao/fc_tank](https://github.com/bencao/fc_tank) - FC "90 Tank" written in coffeescript
+* [anfelor/TodoMVC-CoffeeScript-and-Vue.js](https://github.com/anfelor/TodoMVC-CoffeeScript-and-Vue.js) - A TodoMVC implementation based on the official example by Evan You
+* [algesten/fnuc](https://github.com/algesten/fnuc) - a functional library for coffeescript (and javascript)
+* [xouabita/redux-coffee-boilerplate](https://github.com/xouabita/redux-coffee-boilerplate) - A simple redux boilerplate/example written in coffeescript.
 * [vpj/weya](https://github.com/vpj/weya) - Modular Coffeescript framework for DOM manip, Routing, etc
 * [Vizir/rehab](https://github.com/Vizir/rehab) - Rehab helps you deal with your coffee(script) dependency - CoffeeScript join order
 * [thomdixon/brunch-chicken-and-waffles](https://github.com/thomdixon/brunch-chicken-and-waffles) - Brunch skeleton with CoffeeScript, LESS, Angular, and AngularUI with Bootstrap 3
 * [quartzmo/backbone-coffeescript](https://github.com/quartzmo/backbone-coffeescript) - Code examples from the interactive Backbone + CoffeeScript book.
+* [php-integrator/atom-linter](https://github.com/php-integrator/atom-linter) - Atom package that lints your PHP source code to indicate various problems such as missing methods.
 * [nickjanssen/Leaderboards-XL](https://github.com/nickjanssen/Leaderboards-XL) - The original Meteor leaderboards example with a button to add new players as well as sort functionality. Made with Coffeescript and Bootstrap.
 * [mustardamus/generator-grail](https://github.com/mustardamus/generator-grail) - Yeoman Generator for a modular One Page Application with Gulp, CoffeeScript, Stylus, Browserify, BrowserSync and Mocha. Vue.js, jQuery, Semantic-UI, Socket.IO, Fastclick, Cheerio and Should.js optional on top. Minimal Express.js, Mongoose and Socket.IO Server Framework, if wanted. Authentication Boilerplate with JsonWebToken and Bcrypt, if wanted. Component Generators.
 * [mizchi/tcs](https://github.com/mizchi/tcs) - Tiny and typed coffeescript like language
@@ -237,14 +276,12 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [mikesmullin/borg](https://github.com/mikesmullin/borg) - DevOps with CoffeeScript and Node.JS
 * [meltingice/coffeescript-module](https://github.com/meltingice/coffeescript-module) - A base class for your Coffeescript projects
 * [mdiebolt/clog](https://github.com/mdiebolt/clog) - Static analysis for CoffeeScript files. Similar to flog.
+* [joscha/gulp-rewrite-css](https://github.com/joscha/gulp-rewrite-css) - A gulp plugin that allows rewriting url references in CSS
 * [jondot/elb-dash](https://github.com/jondot/elb-dash) - A self-updating ELB status board / dashboard built with React, Coffeescript and Node.js.
 * [fntz/sirius](https://github.com/fntz/sirius) - Modern coffeescript/javascript framework
 * [derekchiang/Coffee-Formatter](https://github.com/derekchiang/Coffee-Formatter) - A formatter for CoffeeScript
 * [dentafrice/coffeescript-mixins](https://github.com/dentafrice/coffeescript-mixins) - Package to allow mixins with CoffeeScript classes.
 * [baxter/csterrain](https://github.com/baxter/csterrain) - Terrain generation in CoffeeScript
-* [anfelor/TodoMVC-CoffeeScript-and-Vue.js](https://github.com/anfelor/TodoMVC-CoffeeScript-and-Vue.js) - A TodoMVC implementation based on the official example by Evan You
-* [algesten/fnuc](https://github.com/algesten/fnuc) - a functional library for coffeescript (and javascript)
-* [xouabita/redux-coffee-boilerplate](https://github.com/xouabita/redux-coffee-boilerplate) - A simple redux boilerplate/example written in coffeescript.
 * [vizio360/coffee-sweetener](https://github.com/vizio360/coffee-sweetener) - Coffeescript Dependency Injection
 * [soops/sentimood](https://github.com/soops/sentimood) - A minimal sentiment analyzer based on @thinkroth's "Sentimental" and written in CoffeeScript
 * [sectore/nodejs-coffeescript-login](https://github.com/sectore/nodejs-coffeescript-login) - Simple Login Example build with Node, Express, Eco and CoffeeScript
@@ -262,6 +299,7 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [richthegeek/coffeegraph](https://github.com/richthegeek/coffeegraph) - A selection of graph-layout algorithms implemented in Coffeescript, 2D+3D forms.
 * [petebrowne/mixable](https://github.com/petebrowne/mixable) - A Ruby style mixin library for CoffeeScript & Javascript
 * [PEM--/cssc](https://github.com/PEM--/cssc) - Stylesheets in CoffeeScript
+* [noflo/noflo-image](https://github.com/noflo/noflo-image) - Image processing components for NoFlo.
 * [lynndylanhurley/generator-gulp-of-drano](https://github.com/lynndylanhurley/generator-gulp-of-drano) - Yeoman generator for an angular.js site. CoffeeScript, stylus, jade, gulp.js. Bootstrap, angular-strap, nib, angular-ui-router. Heroku + s3 deployment tasks included.
 * [evrone/ultimate-helpers](https://github.com/evrone/ultimate-helpers) - Ultimate Helpers, Rails ActionView helpers ported to CoffeeScript
 * [cozy/cozy-template-coffee](https://github.com/cozy/cozy-template-coffee) - Template project for Cozy Applications written with Coffeescript
@@ -294,6 +332,8 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [rofrankel/sai](https://github.com/rofrankel/sai) - A charting library written in CoffeeScript
 * [Qard/express-coffee](https://github.com/Qard/express-coffee) - An express middleware to automatically compile and serve coffeescript files.
 * [programus/coffee-mocha-nodejs-coverage-windows-example](https://github.com/programus/coffee-mocha-nodejs-coverage-windows-example) - CoffeeScript + mocha + node.js + coverage under windows example
+* [php-integrator/atom-tooltips](https://github.com/php-integrator/atom-tooltips) - Atom package that shows tooltips (e.g. for methods and classes) in your PHP source code.
+* [php-integrator/atom-refactoring](https://github.com/php-integrator/atom-refactoring) - Atom package that provides refactoring capabilities for your PHP source code.
 * [payload/sidescroller](https://github.com/payload/sidescroller) - A side scrolling shooter using CoffeeScript and HTML5 Canvas.
 * [oldboyxx/space_invaders](https://github.com/oldboyxx/space_invaders) - Canvas based space shooter written in ~600 lines of CoffeeScript. This was hacked over a weekend for fun, so I hope you like spaghetti! :-)
 * [mattmccray/new-react-simple](https://github.com/mattmccray/new-react-simple) - Simple ReactJS + CoffeeScript skeleton includes: react-brunch, react-brunch-tags, elucidata-react-coffee
@@ -304,8 +344,10 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [dataewan/coffeescript-d3-classes](https://github.com/dataewan/coffeescript-d3-classes) - Reusable classes that use d3 and coffeescript to make plotting a bit easier.
 * [cpsubrian/coffee-dox](https://github.com/cpsubrian/coffee-dox) - A port of Dox for use with CoffeeScript
 * [CaryLandholt/grunt-ng-classify](https://github.com/CaryLandholt/grunt-ng-classify) - Convert CoffeeScript classes to AngularJS modules with ng-classify
+* [bobbygrace/lore-opossum](https://github.com/bobbygrace/lore-opossum) - A content first lorem ipsum generator with many flavors.
 * [biofractal/force-directed-graph](https://github.com/biofractal/force-directed-graph) - A Force Directed Graph written in coffeescript and HTML5
 * [xizhang/coffee-mvc](https://github.com/xizhang/coffee-mvc) - A MVC template for CoffeeScript, Express.js and Node.js
+* [xixixao/hyper](https://github.com/xixixao/hyper) - React.js wrapper for CoffeeScript
 * [tobico/gusto](https://github.com/tobico/gusto) - Coffeescript testing framework
 * [shabda/humanhash-coffeescript](https://github.com/shabda/humanhash-coffeescript) - Humanhash in coffeescript
 * [ryooo/websocket_createjs_bomberman](https://github.com/ryooo/websocket_createjs_bomberman) - websocket + create.js + node.js + coffeescript bomberman.
@@ -315,7 +357,7 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [rmb177/MorseCode](https://github.com/rmb177/MorseCode) - A simple page to simulate a morse code setup. The main point of the project was to learn more about CoffeeScript and Backbone.js
 * [replit/unlambda-coffee](https://github.com/replit/unlambda-coffee) - An Unlambda interpreter in CoffeeScript
 * [pickhardt/PublisherJS](https://github.com/pickhardt/PublisherJS) - Publisher was inspired by a question: what if JavaScript let variables follow the publisher-subscriber design pattern? The result is a JavaScript / CoffeeScript library that lets you turn variables into publishers, and hook in to them with your own subscriber functions.
-* [php-integrator/atom-tooltips](https://github.com/php-integrator/atom-tooltips) - Atom package that shows tooltips (e.g. for methods and classes) in your PHP source code.
+* [php-integrator/atom-annotations](https://github.com/php-integrator/atom-annotations) - Atom package that shows annotations (e.g. for overriden methods interface implementations) in your PHP source code.
 * [patriksimek/csdoc](https://github.com/patriksimek/csdoc) - An API documentation generator for CoffeeScript.
 * [netopyr/coffee4java](https://github.com/netopyr/coffee4java) - CoffeeScript for Java. A JSR-223 compliant script engine for CoffeeScript.
 * [n1k0/nodetunes](https://github.com/n1k0/nodetunes) - A fortune manager written using node, express, mongoose and coffeescript
@@ -332,8 +374,8 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [garbados/summarizely](https://github.com/garbados/summarizely) - A CoffeeScript implementation of Shlomi Babluki's naive summary tool
 * [fynyky/just.coffee](https://github.com/fynyky/just.coffee) - Coffeescript DOM building library
 * [crubier/todomvc-react-coffee](https://github.com/crubier/todomvc-react-coffee) - Implementation of TodoMVC in React and Coffeescript
+* [arximboldi/mixco](https://github.com/arximboldi/mixco) - Mixco is a framework for creating hardware controller scripts for the amazing Mixxx DJ software. http://sinusoid.es/mixco/
 * [alexgorbatchev/generator-coffee-module](https://github.com/alexgorbatchev/generator-coffee-module) - Yeoman generator that scaffolds out a new Node.js module to be published on NPM written in CoffeeScript.
-* [xixixao/hyper](https://github.com/xixixao/hyper) - React.js wrapper for CoffeeScript
 * [wasnotrice/shoes-black](https://github.com/wasnotrice/shoes-black) - Shoes for the browser, in CoffeeScript, without cream
 * [vhmh2005/jsClass](https://github.com/vhmh2005/jsClass) - Implementation of javascript / coffeescript Object Oriented Programming: class, private, public, static
 * [two-n/generator-express-coffee](https://github.com/two-n/generator-express-coffee) - A Yeoman generator that makes a boilerplate express app, in CoffeeScript, with passport login.
@@ -349,6 +391,7 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [maximebf/nodejs-coffee-template](https://github.com/maximebf/nodejs-coffee-template) - Template for projects using nodejs + coffeescript
 * [lessthan3/dobi](https://github.com/lessthan3/dobi) - Dobi.io, an easy-to-use, database-everywhere, fully hosted, scalable, data-on-the-wire, pure-CoffeeScript web framework designed with realtime apps in mind. http://www.dobi.io
 * [jordansexton/jquery.kern](https://github.com/jordansexton/jquery.kern) - A jQuery plugin for semantically kerning and styling text, written in CoffeeScript and JavaScript.
+* [jldailey/BlingJS](https://github.com/jldailey/BlingJS) - A very functional kitchen-sink, in CoffeeScript.
 * [jasonm23/Phoenix-config](https://github.com/jasonm23/Phoenix-config) - Literate CoffeeScript configuration for the scriptable OSX Automation tool 'Phoenix'
 * [iammerrick/Lunch](https://github.com/iammerrick/Lunch) - An example of how to build big client applications with CoffeeScript & Backbone.js.
 * [gokmen/hcl-to-json](https://github.com/gokmen/hcl-to-json) - HCL to JSON converter in CoffeeScript
@@ -364,7 +407,6 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [clyfe/meta_code](https://github.com/clyfe/meta_code) - Metaprogramming utilities for CoffeeScript
 * [cbrandolino/GoLRocks](https://github.com/cbrandolino/GoLRocks) - An HTML5/coffeescript sequencer based on Game of Life
 * [brianewing/footrest](https://github.com/brianewing/footrest) - Lightweight CouchDB ODM written in CoffeeScript
-* [arximboldi/mixco](https://github.com/arximboldi/mixco) - Mixco is a framework for creating hardware controller scripts for the amazing Mixxx DJ software. http://sinusoid.es/mixco/
 * [AlexeyMK/socket_or_shot_it](https://github.com/AlexeyMK/socket_or_shot_it) - Social Network-style drinking competition framework in Node.js/coffeescript
 * [aheuermann/Ultimate-Omelette-Brunch](https://github.com/aheuermann/Ultimate-Omelette-Brunch) - Brunch skeleton with CoffeeScript, Angularjs, Less, Jade, Bootstrap (Flatly Theme), Angular UI-Bootstrap, and Auto-Reload.
 * [yyyc514/autosave_coffee](https://github.com/yyyc514/autosave_coffee) - AutoSave (via localStorage) written in CoffeeScript
@@ -375,12 +417,14 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [tech-no-crat/html5-snake](https://github.com/tech-no-crat/html5-snake) - HTML5 snake game in coffeescript
 * [Takazudo/coffeeTutorial](https://github.com/Takazudo/coffeeTutorial) - CoffeeScript examples
 * [showell/Game-Of-Life](https://github.com/showell/Game-Of-Life) - Conway's Game of Life (in coffeescript)
+* [seblavoie/adobe-illustrator-layer-renamer](https://github.com/seblavoie/adobe-illustrator-layer-renamer) - Adobe Illustrator script to batch rename layers.
 * [sascha/meteor-chat](https://github.com/sascha/meteor-chat) - Chat application using Meteor, CoffeeScript, jQuery and some Twitter Bootstrap
 * [sagivo/node-coffeescript-express-mongoose-rest-api](https://github.com/sagivo/node-coffeescript-express-mongoose-rest-api) - a quick MVC skeleton for creating a RESTful server using express.js and mongoose
 * [rodw/named-parameters](https://github.com/rodw/named-parameters) - A small and simple utility for working with named parameters in JavaScript/CoffeeScript. (Inspired by optimist.)
 * [rockymeza/couchy](https://github.com/rockymeza/couchy) - CouchDB wrapper for node with CoffeeScript in mind.
 * [PragTob/CoffeeRecommender](https://github.com/PragTob/CoffeeRecommender) - A recommendation engine written in CoffeeScript and NodeJS
 * [pismute/generator-coffee](https://github.com/pismute/generator-coffee) - Create a Node.js module with Yeoman for Coffeescript
+* [php-integrator/atom-call-tips](https://github.com/php-integrator/atom-call-tips) - Atom package that shows call tips with parameter information in your PHP source code.
 * [osuushi/DelayedOp](https://github.com/osuushi/DelayedOp) - A simple library written in CoffeeScript for delaying operations until asynchronous calls have completed.
 * [NeuOL/neuol](https://github.com/NeuOL/neuol) - A website for association of Neu Online, which is using Coffeescript and based on Node.js + Express + Mongodb
 * [nesterow/flask-balabas](https://github.com/nesterow/flask-balabas) - An angular boilerplate for flask with yeoman and coffeescript
@@ -392,7 +436,6 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [mark-hahn/space-brush](https://github.com/mark-hahn/space-brush) - A reactive coffeescript HTML DSL for Atom editor package development
 * [kevinsawicki/coffeestack](https://github.com/kevinsawicki/coffeestack) - CoffeeScript Stacktrace Converter
 * [kevgo/ruby.js](https://github.com/kevgo/ruby.js) - A collection of useful helper methods from Ruby land that make working with CoffeeScript even more awesome.
-* [jldailey/BlingJS](https://github.com/jldailey/BlingJS) - A very functional kitchen-sink, in CoffeeScript.
 * [ivanjovanovic/coffee-cgol](https://github.com/ivanjovanovic/coffee-cgol) - CoffeeScript Conway's Game of Life
 * [hugodias/EloRating-JavaScript](https://github.com/hugodias/EloRating-JavaScript) - Elo Rating build in CoffeeScript and compiled in JavaScript
 * [hlship/build-your-own-angular-coffeescript](https://github.com/hlship/build-your-own-angular-coffeescript) - Working through Tero Parviainen's "Build Your Own AngularJS" ... in CoffeeScript!
@@ -406,10 +449,10 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [disolovyov/node-matrices](https://github.com/disolovyov/node-matrices) - Matrix calculations for Node and the browser in pure CoffeeScript.
 * [danielbayley/atom-modular-snippets](https://github.com/danielbayley/atom-modular-snippets) - A modular solution to snippets in @Atom.
 * [ciaranw/coffeescript-workshop](https://github.com/ciaranw/coffeescript-workshop) - Files from the coffee script workshop
+* [cbragard/angular-sid](https://github.com/cbragard/angular-sid) - Angular sid is a web app skeleton based on AngularJS
 * [breckinloggins/bantam-coffee](https://github.com/breckinloggins/bantam-coffee) - A CoffeeScript implementation of the Bantam Pratt Parser example language
 * [brandonhilkert/angular-coffeescript](https://github.com/brandonhilkert/angular-coffeescript) - A bootstrap app for Angular using Coffeescript.
 * [brainrape/fuc](https://github.com/brainrape/fuc) - Functional Utilities for Coffeescript and Javascript
-* [BookingBug/bookingbug-angular](https://github.com/BookingBug/bookingbug-angular) - BookingBug AngularJS SDK
 * [atom/coffee-cash](https://github.com/atom/coffee-cash) - CoffeeScript caching
 * [ascarter/CoffeeScript.bbpackage](https://github.com/ascarter/CoffeeScript.bbpackage) - BBEdit CoffeeScript
 * [arumons/begin](https://github.com/arumons/begin) - Flow control library for Node.js and CoffeeScript
@@ -432,17 +475,16 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [robenkleene/run-in-atom](https://github.com/robenkleene/run-in-atom) - Run CoffeeScript or JavaScript in Atom.
 * [ricardobeat/instagram-challenge](https://github.com/ricardobeat/instagram-challenge) - Instagram engineering challenge solved in CoffeeScript (http://instagram-engineering.tumblr.com/)
 * [rapkin/snake](https://github.com/rapkin/snake) - html5/coffeescript game
-* [ranska/ng-base](https://github.com/ranska/ng-base) - base class files for using angularjs in coffeescript class
 * [ptpt/SlidingPuzzle](https://github.com/ptpt/SlidingPuzzle) - A sliding puzzle game written in CoffeeScript
 * [pogoapp/rama](https://github.com/pogoapp/rama) - CoffeeScript/TCP psudeo-terminal proxy
 * [pgherveou/squid](https://github.com/pgherveou/squid) - Automatically compile your frontend assets (CoffeeScript, Jade, Stylus, ...)
 * [peterc/coffeebots](https://github.com/peterc/coffeebots) - A programmable robot war game in CoffeeScript / JavaScript
 * [pandastrike/nice](https://github.com/pandastrike/nice) - Component-based (instead of template-based) views for CoffeeScript
 * [OttoAllmendinger/js-quickhull3d](https://github.com/OttoAllmendinger/js-quickhull3d) - An implementation and visualization of the Quickhull3d algorithm in CoffeeScript
+* [oozcitak/canphotoblog](https://github.com/oozcitak/canphotoblog) - A dead easy photo blogging application powered by node.js
 * [OlenDavis/angoolar](https://github.com/OlenDavis/angoolar) - Angular + Coffeescript - Bookkeeping = AngOOlar, an ostensibly object-oriented approach to using Angular that allows for the creation of projects and libraries with dramatically scalable complexity without any of the headaches of bookkeeping and scaffolding.
 * [odf/pazy.js](https://github.com/odf/pazy.js) - Functional (-ish) data structures for Javascript (via Coffeescript)
 * [nikolaplejic/backbone-coffeescript](https://github.com/nikolaplejic/backbone-coffeescript) - A small example of CoffeeScript & Backbone.js using Python, Flask and MongoDB as the backend
-* [nandastone/precook-backbone](https://github.com/nandastone/precook-backbone) - A simple CoffeeScript preloader for Backbone projects.
 * [mdwrigh2/vertexbot](https://github.com/mdwrigh2/vertexbot) - An extendable IRC bot written in Node.js and CoffeeScript
 * [markwainwright/atom-linter-coffee-variables](https://github.com/markwainwright/atom-linter-coffee-variables) - Atom package for linting CoffeeScript for undefined and unused variables
 * [lxe/io.coffee](https://github.com/lxe/io.coffee) - Evented IO for V8 CoffeeScript
@@ -456,9 +498,11 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [jamesflorentino/CoffeeScript-Adventure](https://github.com/jamesflorentino/CoffeeScript-Adventure) - Some things I've learned in using CoffeeScript for development. Usually contains non-obvious stuff.
 * [jakubburkiewicz/brunch-scab](https://github.com/jakubburkiewicz/brunch-scab) - Brunch skeleton with SASS, CoffeeScript, Angular and Bootstrap
 * [ich/cafe](https://github.com/ich/cafe) - CoffeeScript extended lib
+* [IanBellomy/Introducing-CoffeeScript-and-FramerJS-](https://github.com/IanBellomy/Introducing-CoffeeScript-and-FramerJS-) - Materials for learning / teaching CoffeeScript and FramerJS
 * [Goyaka/psd.js](https://github.com/Goyaka/psd.js) - Coffeescript library to parse psd.js
 * [Glavin001/atom-coffeescript-preview](https://github.com/Glavin001/atom-coffeescript-preview) - DEPRECATED: Preview what your CoffeeScript will look like as JavaScript
 * [gaultier/SteamBot-Trade-simple](https://github.com/gaultier/SteamBot-Trade-simple) - Nodejs steam bot for trading written in CoffeeScript
+* [gaotongfei/telectron](https://github.com/gaotongfei/telectron) - An demo telegram desktop app using electron & coffeescript
 * [fabianonline/geotweeter](https://github.com/fabianonline/geotweeter) - The geotweeter is a Twitter client written entirely in coffeescript. Discontinued since Twitter decided that third-party clients are "evil".
 * [dukejones/countdown-timer](https://github.com/dukejones/countdown-timer) - An unobtrusive Countdown Timer written in Coffeescript.
 * [dsrw/sink](https://github.com/dsrw/sink) - Avoid callback hell in CoffeeScript and JavaScript apps
@@ -468,11 +512,11 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [danmindru/angular-coffee-boilerplate](https://github.com/danmindru/angular-coffee-boilerplate) - ☕️ Angular CoffeeScript Boilerplate, based on https://github.com/danmindru/angular-boilerplate-study
 * [danioso/app-gulp-vuejs](https://github.com/danioso/app-gulp-vuejs) - Workflow to start, develop and deploy an application with gulp, Vue.js, CoffeeScript, Jade, Stylus, Browserify and TinyPNG.
 * [danielribeiro/rbcoffee](https://github.com/danielribeiro/rbcoffee) - Rubyisms in Coffeescript
+* [danielbayley/alfred-finder-new-item](https://github.com/danielbayley/alfred-finder-new-item) - Swiftly create new items in Finder with support for templates.
 * [coffeedoc/coffeedoc.info](https://github.com/coffeedoc/coffeedoc.info) - CoffeeScript API documentation generation as a service
 * [code-attic/rabbitmq-demos](https://github.com/code-attic/rabbitmq-demos) - CoffeeScript demos of RabbitMQ functionality using the Node AMQP library
 * [cbinners/modern-quickstart](https://github.com/cbinners/modern-quickstart) - React + Coffeescript + CJSX + SCSS + Gulp + Browserify = Yay!
 * [bradens/sassy-brunch-minimal](https://github.com/bradens/sassy-brunch-minimal) - A minimalistic implementation of brunch with sass that includes a few extras: coffeescript, bootstrap3, underscore, bourbon, font-awesome and jquery.
-* [artyomtrityak/grunt-file-coffee-template](https://github.com/artyomtrityak/grunt-file-coffee-template) - Gruntfile for CoffeeScript compilation, linting, UnitTesting and LiveReload
 * [arihantagarwal/doo](https://github.com/arihantagarwal/doo) - CoffeeScript library for repeat and delay functions.
 * [antimatter15/pinball](https://github.com/antimatter15/pinball) - coffeescript pinball game
 * [andrewberls/kona](https://github.com/andrewberls/kona) - An HTML5 game engine in Coffeescript, for CoffeeScript.
@@ -491,11 +535,13 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [tancredi/draw](https://github.com/tancredi/draw) - App to learn programming using a basic CoffeeScript drawing API
 * [syntagmatic/geometries](https://github.com/syntagmatic/geometries) - Geometries in CoffeeScript
 * [spaghetticode/game-of-life-coffeescript](https://github.com/spaghetticode/game-of-life-coffeescript) - Conway's Game of Life in coffeescript
+* [sonicdoe/grunt-node-gyp](https://github.com/sonicdoe/grunt-node-gyp) - Run node-gyp commands from Grunt.
 * [sioked/Raphael-Box-Plot-Library](https://github.com/sioked/Raphael-Box-Plot-Library) - A box plot library using Raphael.js and written in CoffeeScript
 * [sioked/Planning-Poker](https://github.com/sioked/Planning-Poker) - This is a CoffeeScript / Node.js application to allow a team to play planning poker during a sprint planning meeting to determine story points or to plan estimated time on projects.
 * [ryan-roemer/node-cakepop](https://github.com/ryan-roemer/node-cakepop) - CoffeeScript Cake task utilities and extensions.
 * [rtoal/iki-compiler](https://github.com/rtoal/iki-compiler) - Compiler for Iki written in CoffeeScript
 * [rpheath/coffee-slideshow](https://github.com/rpheath/coffee-slideshow) - A jQuery content slider written in CoffeeScript.
+* [rikyperdana/meteorcrud](https://github.com/rikyperdana/meteorcrud) - Tutorial Meteor CRUD for Pekanbaru Coders
 * [recurving/lightbox](https://github.com/recurving/lightbox) - This is a simple lightbox class built with CoffeeScript.
 * [raphaelpereira/Backbone.RailsStore](https://github.com/raphaelpereira/Backbone.RailsStore) - Backbone extensions to provide complete Rails interaction on CoffeeScript/Javascript, providing a remote search mechanism, keeping single reference models in memory, reporting refresh conflicts and consistently persisting models and there relations.
 * [ralphbean/hangman-coffee](https://github.com/ralphbean/hangman-coffee) - Hangman in CoffeeScript
@@ -509,6 +555,8 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [pathikrit/coffee-pearls](https://github.com/pathikrit/coffee-pearls) - collection of small beautiful programs written in coffeescript
 * [panozzaj/generic-rpg](https://github.com/panozzaj/generic-rpg) - Quick stab at a random SNES-style RPG game in HTML5 + CoffeeScript
 * [outbox/grinder](https://github.com/outbox/grinder) - Simple router written in CoffeeScript for node.js
+* [nilsding/webm-index](https://github.com/nilsding/webm-index) - a simple frontend for your WebM directory
+* [nandastone/precook-backbone](https://github.com/nandastone/precook-backbone) - A simple CoffeeScript preloader for Backbone projects.
 * [mfoo/CoffeeScript-Game-Of-Life](https://github.com/mfoo/CoffeeScript-Game-Of-Life) - A small single-page implementation of Conway's Game of Life in CoffeeScript, written as a learning exercise.
 * [mattnull/nullstrap](https://github.com/mattnull/nullstrap) - A Node.js CoffeeScript / Express.js bootstrap. Nice for quickly setting up a site or application. Auto-compiles and watches server-side and client-side CoffeeScript files. Auto-compiles Stylus files and Handlebars templates. Runs main script using Supervisor. One command install and one command to run your app.
 * [marin-liovic/hackynews](https://github.com/marin-liovic/hackynews) - Hacky News is a copy of Hacker News written in node.js/coffeescript. Demo is here: http://hackynews.herokuapp.com/
@@ -516,13 +564,13 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [lfendy/TravelHelperCoffee](https://github.com/lfendy/TravelHelperCoffee) - TravelHelper to create e-mail friendly text after scraping flight confirmation page. Re-written in Coffeescript
 * [legokichi/pebble](https://github.com/legokichi/pebble) - Pebble is a dialect of the Lisp programming language, as the interpreter written in CoffeeScript.
 * [krilo/YM-Middleman-Template](https://github.com/krilo/YM-Middleman-Template) - A template for Middleman using Slim, Coffeescript and SASS
+* [knalli/honeypot-for-tcp-32764](https://github.com/knalli/honeypot-for-tcp-32764) - Honeypot for router backdoor (TCP 32764)
 * [khoomeister/coffee-boilerplate](https://github.com/khoomeister/coffee-boilerplate) - Starter template for CoffeeScript libraries
 * [JustinTulloss/AeroMQ](https://github.com/JustinTulloss/AeroMQ) - A very simple task queue in CoffeeScript, running on Node.JS.
 * [jrglee/KineticAsteroids](https://github.com/jrglee/KineticAsteroids) - Asteroids game implemented with CoffeeScript and KineticJS
 * [jiyinyiyong/coffee-pattern](https://github.com/jiyinyiyong/coffee-pattern) - use pattern matching like syntax in CoffeeScript
 * [jaekwon/Cardamom](https://github.com/jaekwon/Cardamom) - Experimental CoffeeScript Prelude
 * [hasenj/jsarc](https://github.com/hasenj/jsarc) - an implementation of arc in coffeescript
-* [gaotongfei/telectron](https://github.com/gaotongfei/telectron) - An demo telegram desktop app using electron & coffeescript
 * [fictorial/trie](https://github.com/fictorial/trie) - a trie implementation in CoffeeScript
 * [felixflores/HollaBack](https://github.com/felixflores/HollaBack) - Event emitter written in CoffeeScript
 * [Factlink/react-coffeescript-glue](https://github.com/Factlink/react-coffeescript-glue) - Write pretty React components in Coffeescript.
@@ -532,13 +580,14 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [egtann/sidebar](https://github.com/egtann/sidebar) - A free and interactive sidebar made with CSS and CoffeeScript
 * [dvicory/TvT](https://github.com/dvicory/TvT) - An in-browser 2D top-down multiplayer game written in CoffeeScript.
 * [docpad/docpad-plugin-coffeescript](https://github.com/docpad/docpad-plugin-coffeescript) - Adds support for CoffeeScript to JavaScript compilation to DocPad
+* [demarque/coffee-cup](https://github.com/demarque/coffee-cup) - Coffee Cup set the foundations of a Rails like structure for your all your CoffeeScript code.
 * [dbenson24/config-import-export](https://github.com/dbenson24/config-import-export) - Small Atom Package written in Coffeescript that allows you to export or import your configuration settings
-* [danielbayley/alfred-finder-new-item](https://github.com/danielbayley/alfred-finder-new-item) - Swiftly create new items in Finder with support for templates.
 * [cmoncrief/coffeebar](https://github.com/cmoncrief/coffeebar) - Simplified CoffeeScript build tool
 * [clyfe/tweet_express](https://github.com/clyfe/tweet_express) - Express sample app in CoffeeScript with a cube of sugar (superseded by umbrella)
 * [ChrisAnn/webgl-lessons-coffeescript](https://github.com/ChrisAnn/webgl-lessons-coffeescript) - An attempt to port Giles' WebGL Lessons to CoffeeScript
 * [CharlesHolbrow/pioneer](https://github.com/CharlesHolbrow/pioneer) - A minimalist blog written in CoffeeScript using Meteor and Meteorite
 * [cesare/twitter-userstream](https://github.com/cesare/twitter-userstream) - Simple Twitter Userstream API client written in CoffeeScript
+* [bxt/adinfinitvm](https://github.com/bxt/adinfinitvm) - A fun and never ending puzzle game
 * [burakcan/storaj](https://github.com/burakcan/storaj) - A simple localstorage helper that written in Coffeescript
 * [brandon-fryslie/ember-rest.coffee](https://github.com/brandon-fryslie/ember-rest.coffee) - CoffeeScript port of some useful REST functions for use with ember.js
 * [Bodacious/jQuery.Cookie.Coffeescript](https://github.com/Bodacious/jQuery.Cookie.Coffeescript) - A jQuery plugin for cookies written in CoffeeScript
@@ -584,7 +633,6 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [psdparser/psdparser](https://github.com/psdparser/psdparser) - A Photoshop (PSD) file parser in Javascript/Coffeescript based on psd.js
 * [probablycorey/coffee-eval](https://github.com/probablycorey/coffee-eval) - Evals CoffeeScript
 * [phlipper/codecademy-js-as-coffeescript](https://github.com/phlipper/codecademy-js-as-coffeescript) - toying with Codecademy JavaScript Course - as expressed in CoffeeScript
-* [phenomnomnominal/genie.coffee](https://github.com/phenomnomnominal/genie.coffee) - Easy Genetic Algorithms in CoffeeScript! (With WebWorkers!)
 * [PeterCxy/telegram-bot-coffee](https://github.com/PeterCxy/telegram-bot-coffee) - A modular, extendable Telegram Bot written in CoffeeScript, using Telegram Bot API
 * [PeterCxy/PeterBot](https://github.com/PeterCxy/PeterBot) - Peter's Telegram bot written in CoffeeScript
 * [perspectivezoom/gulp-jspm-react-coffee-starter](https://github.com/perspectivezoom/gulp-jspm-react-coffee-starter) - A pipeline for front end projects using gulp, jspm, and coffeescript
@@ -595,7 +643,7 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [osminogin/express-coffee-seed](https://github.com/osminogin/express-coffee-seed) - A project seed for Node.js application using Express, CoffeeScript, Angular, Bootstrap
 * [omgitsads/coffeescript-twitter-streamer](https://github.com/omgitsads/coffeescript-twitter-streamer) - Learning coffeescript by streaming tweets to a browser via websockets
 * [olsonjeffery/coffeebot](https://github.com/olsonjeffery/coffeebot) - A simple cs + node.js irc bot for eval'ing coffeescript
-* [ohjames/cc.gamer](https://github.com/ohjames/cc.gamer) - A high performance game engine, runs a Box2D physics engine in a Web Worker to take advantage of multiple CPUs. ABANDONED (CoffeeScript doesn't feel suitable for game programming).
+* [olefriis/CoffeeScript-GeekNight](https://github.com/olefriis/CoffeeScript-GeekNight) - CoffeeScript code for geek night
 * [nikita-volkov/Fury](https://github.com/nikita-volkov/Fury) - A platform independent library of higher order functions for function composing, overloading and asynchronicity in JavaScript and CoffeeScript
 * [nicolasbrugneaux/codeshare](https://github.com/nicolasbrugneaux/codeshare) - nodejs, socket.io, Inspired by http://codeshare.io
 * [nickretallack/Dimensional.JS](https://github.com/nickretallack/Dimensional.JS) - Conversions and dimensional analysis for units of measurement.  In JavaScript (actually CoffeeScript)
@@ -608,11 +656,11 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [michaelgrosner/CoffeeMol](https://github.com/michaelgrosner/CoffeeMol) - A CoffeeScript Molecular Visualizer for HTML5 browsers
 * [mgrosso/javascriptboid](https://github.com/mgrosso/javascriptboid) - javascript boids implementation of Craig Reynolds flocking algorithm; except its really in coffeescript.
 * [mdietz/webwing](https://github.com/mdietz/webwing) - X-Wing clone using webgl / coffeescript etc.
-* [margh/mixmaster](https://github.com/margh/mixmaster) - A utility class for multiple inheritance in Coffeescript using mixins.
 * [makzan/Facebook-CoffeeScript-Client-Wrapper](https://github.com/makzan/Facebook-CoffeeScript-Client-Wrapper) - Just a CoffeeScript wrapper to handle FB Connect.
 * [magnetik/maniaplanet-style-js-parser](https://github.com/magnetik/maniaplanet-style-js-parser) - CoffeeScript (JavaScript) maniaplanet style parser
 * [lukemorton/waypoint](https://github.com/lukemorton/waypoint) - A router written in CoffeeScript for browser and server.
 * [luckyladygames/coffee-express](https://github.com/luckyladygames/coffee-express) - An Opinionated Coffeescript + Express Framework
+* [lorensr/backbone-coffee-todos](https://github.com/lorensr/backbone-coffee-todos) - The Backbone Todos example v0.9.2 in CoffeeScript
 * [lethal-guitar/CoffeeRay](https://github.com/lethal-guitar/CoffeeRay) - A HTML 5 based raytracer written in CoffeeScript
 * [Leonidas-from-XIV/floatinghands](https://github.com/Leonidas-from-XIV/floatinghands) - A watch, as a CoffeeScript jQuery plugin. Or somethin'
 * [kvcrawford/ng-coffeeplate](https://github.com/kvcrawford/ng-coffeeplate) - Angular app boilerplate and Gulp.js build system with CoffeeScript, Jade, SASS, Bootstrap, Karma, and Jasmine.
@@ -627,12 +675,10 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [jonpliske/coffeescript_examples](https://github.com/jonpliske/coffeescript_examples) - CoffeeScript demos for ChicagoWebConf
 * [johnfn/ActionCoffee](https://github.com/johnfn/ActionCoffee) - CoffeeScript to ActionScript (trans)compiler.
 * [jhogendorn/Game-of-Life-in-CoffeeScript](https://github.com/jhogendorn/Game-of-Life-in-CoffeeScript) - A CoffeeScript implementation of Conway's Game of Life using HTML5 Canvas
-* [jessepollak/gulp-express-coffee-sass](https://github.com/jessepollak/gulp-express-coffee-sass) - A Node start app with express, coffeescript, browserify, and sass
-* [jerryzou/JUpload](https://github.com/jerryzou/JUpload) - Resumable uploader with Node and jQuery. Written in CoffeeScript.
+* [jesselcampbell/framer-module-scrollcomponentwithbar](https://github.com/jesselcampbell/framer-module-scrollcomponentwithbar) - Extending the Framer ScrollComponent with a Scroll Bar
 * [jeremyfa/node-cocos2d-coffee-autocomplete](https://github.com/jeremyfa/node-cocos2d-coffee-autocomplete) - Provide autocompletion for cocos2d-x/html5 projects written in CoffeeScript
 * [jamescarr/socket.io-test](https://github.com/jamescarr/socket.io-test) - Example of test driving socket.io, done with coffeescript and following the blog post at http://liamkaufman.com/blog/2012/01/28/testing-socketio-with-mocha-should-and-socketio-client/
 * [Industrial/CMS](https://github.com/Industrial/CMS) - A CMS for NodeJS in CoffeeScript
-* [IanBellomy/Introducing-CoffeeScript-and-FramerJS-](https://github.com/IanBellomy/Introducing-CoffeeScript-and-FramerJS-) - Materials for learning / teaching CoffeeScript and FramerJS
 * [hectorcorrea/intro-to-coffeescript](https://github.com/hectorcorrea/intro-to-coffeescript) - A decaf introduction to CoffeeScript
 * [guox191/parallel-scroll.js](https://github.com/guox191/parallel-scroll.js) - CoffeeScript mobile page scroll library
 * [GulinSS/brunch-bower-site](https://github.com/GulinSS/brunch-bower-site) - Brunch-Bower site template without any libraries, but with LESS+CoffeeScript+Jade
@@ -644,14 +690,12 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [falsecz/beer-script](https://github.com/falsecz/beer-script) - coffeescript hack for google closure
 * [esehara/PublicBrainOverflow](https://github.com/esehara/PublicBrainOverflow) - Node.js + MongoDB + CoffeeScript example
 * [eriwen/kanban-coffee](https://github.com/eriwen/kanban-coffee) - Kanban board written in NodeJS, CoffeeScript, Jade, Stylus, and Mocha
-* [epeli/browserify-cs-example](https://github.com/epeli/browserify-cs-example) - Browserify v2 with CoffeeScript Source Maps
 * [Eirikur/CoffeeSync](https://github.com/Eirikur/CoffeeSync) - CoffeeScript program (for NodeJS) providing a GUI for rsync using Zenity.
 * [dustinsmith1024/grid](https://github.com/dustinsmith1024/grid) - Twitter client written with Spine a JS / CoffeeScript frontend framework
 * [dogonwheels/meteor-coffee](https://github.com/dogonwheels/meteor-coffee) - Minimal meteor project using coffeescript
 * [diogocampos/promise-coffee](https://github.com/diogocampos/promise-coffee) - Promises/A+ implemented in readable CoffeeScript
 * [devth/sentry](https://github.com/devth/sentry) - Sentry is a little CoffeeScript app that displays two or more sites side-by-side refreshing on an interval. Go fullscreen!
 * [derekchiang/LitToCoffee](https://github.com/derekchiang/LitToCoffee) - A source-to-source compiler from Literate CoffeeScript to CoffeeScript
-* [demarque/coffee-cup](https://github.com/demarque/coffee-cup) - Coffee Cup set the foundations of a Rails like structure for your all your CoffeeScript code.
 * [deepfriedmind/Google-Spreadsheet-Image-Gallery](https://github.com/deepfriedmind/Google-Spreadsheet-Image-Gallery) - Experiment with an image gallery populated by a Google Spreadsheet. Using Middleman with Haml, Sass/Compass and CoffeeScript.
 * [davidguttman/twitter_chimes](https://github.com/davidguttman/twitter_chimes) - Windchimes, but with Twitter and CoffeeScript
 * [danielbayley/atom-plist-converter](https://github.com/danielbayley/atom-plist-converter) - Automatically convert binary .plist files in @Atom on macOS.
@@ -659,7 +703,6 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [danielbayley/atom-custom-app-icon](https://github.com/danielbayley/atom-custom-app-icon) - Replace the @Atom app icon with any custom .icns file.
 * [CRogers/coml](https://github.com/CRogers/coml) - COffescript Markup Language. Like haml but written entirely in valid coffeescript.
 * [cpsubrian/node-mvc-coffee](https://github.com/cpsubrian/node-mvc-coffee) - A boilterplate for a node.js app with MVC principles, mocha tests, and written in coffeescript
-* [couchand/isomorphic-react-example](https://github.com/couchand/isomorphic-react-example) - an example isomorphic application written in CoffeeScript built with React
 * [Cotidia/jest-react-coffeescript](https://github.com/Cotidia/jest-react-coffeescript) - A Jest unit test boilterplate for React & CoffeeScript
 * [coffee-js/vue-coffee-workflow](https://github.com/coffee-js/vue-coffee-workflow) - This project demonstrates writing Vue.js 2 in plain CoffeeScript.
 * [Chadtech/elm-gulp-coffeescript-stylus-lodash-browserify-boilerplate](https://github.com/Chadtech/elm-gulp-coffeescript-stylus-lodash-browserify-boilerplate) - Chadtech's Elm Boilerplate
@@ -675,29 +718,22 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [algesten/tagg](https://github.com/algesten/tagg) - markup as coffeescript (again)
 * [alexgorbatchev/generator-coffee-generator](https://github.com/alexgorbatchev/generator-coffee-generator) - Yeoman generator that scaffolds out a new basic Yeoman generator with some sensible defaults written in CoffeeScript.
 * [airosa/sdmxfeeder](https://github.com/airosa/sdmxfeeder) - a sdmx converter written in coffeescript
-* [Zaggen/coffee-DragSlider](https://github.com/Zaggen/coffee-DragSlider) - A nice coffeeScript slider, that enables dragging and nesting sliders inside each other.
 * [younglaker/Escort-form-validation](https://github.com/younglaker/Escort-form-validation) - A JavaScript、CoffeeScript form validation plugin for Bootstrap2/3
 * [workmad3/pickles](https://github.com/workmad3/pickles) - Friendly IRC bot written in CoffeeScript for Node.js
 * [wordijp/altjs-browserify-base-project](https://github.com/wordijp/altjs-browserify-base-project) - CoffeeScript & TypeScript & Browserifyによるベースプロジェクト
 * [wongpeiyi/ember-cli-mocha-coffeescript](https://github.com/wongpeiyi/ember-cli-mocha-coffeescript) - Blueprints for ember-cli-mocha and ember-cli-coffeescript
 * [wlaurance/coffee2json](https://github.com/wlaurance/coffee2json) - Converts coffeescript to json
-* [wittekm/Vellum](https://github.com/wittekm/Vellum) - Playing around with canvas and coffeescript. Because SDL is an evolutionary dead-end.
-* [WINTR/generator-basic](https://github.com/WINTR/generator-basic) - A Yeoman generator for creating simple web projects using Gulp, Coffeescript, Browserify, and Stylus.
 * [winton/coffee-migrate](https://github.com/winton/coffee-migrate) - Abstract migration framework for node (in coffeescript)
 * [wescleveland/meteor_skeleton](https://github.com/wescleveland/meteor_skeleton) - Skeleton app for MeteorJS using Coffeescript
-* [webmatze/mickrigtest-js](https://github.com/webmatze/mickrigtest-js) - MickrigTest.js is a minimal test system for JavaScript written in CoffeeScript
+* [webmatze/mickrigtest](https://github.com/webmatze/mickrigtest) - a minimal testing framework for JavaScript written in CoffeeScript
 * [webBoxio/atom-backbone](https://github.com/webBoxio/atom-backbone) - Atom Backbone provides Backbone shortcuts for CoffeeScript, JavaScript and HTML
 * [wearefractal/extenze](https://github.com/wearefractal/extenze) - coffeescript mixins
 * [vslinko/grunt-coffee-coverage](https://github.com/vslinko/grunt-coffee-coverage) - JSCoverage-style instrumentation for CoffeeScript files.
-* [vjpr/live-bootstrap](https://github.com/vjpr/live-bootstrap) - Express, Socket.IO w/ Auth, Everyauth w/ Facebook Connect, Mongoose, CoffeeScript, Haml-Coffee
 * [Vizme/vizme](https://github.com/Vizme/vizme) - Coffeescript source of the Vizme client engine
 * [Vinelab/generator-tom](https://github.com/Vinelab/generator-tom) - Yeoman Generator for AngularJS Apps in CoffeeScript
-* [victusfate/html5_chaos](https://github.com/victusfate/html5_chaos) - chaos effect from http://29a.ch/2010/12/15/particle-chaos-html5-canvas-demo translated to coffeescript
 * [vicentereig/coffeescript-core-ext](https://github.com/vicentereig/coffeescript-core-ext) - Some core extensions to JavaScript through Coffeescript
 * [vencax/coffeetus](https://github.com/vencax/coffeetus) - coffeescript (node) TUS Server Implementation for TUS 1.0.0
-* [usirin/dstructures](https://github.com/usirin/dstructures) - Data structures with coffeescript. Practice, hopefully it will evolve as a good library.
 * [twilson63/zeke-markdown](https://github.com/twilson63/zeke-markdown) - A markdown plugin for zeke coffeescript template engine parser
-* [twilson63/zeke](https://github.com/twilson63/zeke) - A plug-able coffeescript template engine
 * [tsukasa-web/myFuncs_coffee](https://github.com/tsukasa-web/myFuncs_coffee) - browserify CoffeeScript modules
 * [triggity/react-coffee](https://github.com/triggity/react-coffee) - sample project with coffeescript and react
 * [tom335/ya](https://github.com/tom335/ya) - Ya.js - Yet Another CoffeeScript Framework
@@ -705,32 +741,25 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [tnovelli/hax5](https://github.com/tnovelli/hax5) - [OLD] Hacks/demos in HTML5+CoffeeScript
 * [timglabisch/js_di](https://github.com/timglabisch/js_di) - javascript / coffeescript dependency injection container
 * [thunder9/tinyjs-coffee](https://github.com/thunder9/tinyjs-coffee) - A JavaScript interpreter in JavaScript (CoffeeScript)
-* [thomasloh/bookmarker-server](https://github.com/thomasloh/bookmarker-server) - Server side of a bookmarking service - Coffeescript, Sequelize (postgres), Social signins (passport) etc
 * [thillerson/Calendar-Layout-Playground](https://github.com/thillerson/Calendar-Layout-Playground) - Small exercise trying out jasmine, coffeescript, and some css layout
 * [testing-lab/backend](https://github.com/testing-lab/backend) - Simple application for testing employee candidate code skills and knowledge. Currently it's more suitable for testing front-end, JavaScript/CoffeeScript developers.
 * [terp/TufteCharts](https://github.com/terp/TufteCharts) - Coffeescript charting library inspired by the works of Edward Tufte.
-* [tcr/pour](https://github.com/tcr/pour) - A DSL for asynchronous programming in CoffeeScript
 * [tadeuzagallo/mfc](https://github.com/tadeuzagallo/mfc) - Micro Framework for CoffeeScript
 * [suranyami/conway_coffee](https://github.com/suranyami/conway_coffee) - Conway's life implemented in CoffeeScript
-* [stanfeldman/crawler.js](https://github.com/stanfeldman/crawler.js) - Web crawler in CoffeeScript on Node.js
-* [SnuggHome/react-starter-kit](https://github.com/SnuggHome/react-starter-kit) - A starter repo that includes Browserify, React, Express, Knex, Bootstrap and Coffeescript (including cjsx)
+* [STRd6/zine](https://github.com/STRd6/zine) - DIY E-Zine and Operating System
+* [statico/aspen](https://github.com/statico/aspen) - Web app to search a large collection of plaintext files using Elasticsearch
 * [smalluban/express-coffee](https://github.com/smalluban/express-coffee) - Skeleton of expressjs built on CoffeeScript
 * [siviter-t/lampyridae.coffee](https://github.com/siviter-t/lampyridae.coffee) - A simple suite of particle effects written in CoffeeScript
-* [Sitin/coffee-mix](https://github.com/Sitin/coffee-mix) - Mixins support for CoffeeScript.
-* [shinnn/generator-jade-frontmatter](https://github.com/shinnn/generator-jade-frontmatter) - [WORK IN PROGRESS] A static website boilerplate with Jade, CoffeeScript, Compass
 * [shaci/calendar](https://github.com/shaci/calendar) - простой календарь, 3 версии, одна с использованием только javascript, одна с использованием knockoutJS, и версия с coffeescript и knockoutJS
 * [scien/soundcloud2-coffeescript](https://github.com/scien/soundcloud2-coffeescript) - Soundcloud Coffeescript SDK
-* [salsalabs/salsa-api](https://github.com/salsalabs/salsa-api) - An example of using the Salsa API in Coffeescript and Javascript.
-* [sagittaros/famo.us-gulp-seed](https://github.com/sagittaros/famo.us-gulp-seed) - (Famo.US + Browserify + Coffeescript + Gulp) Seed Project
 * [saebyn/rain](https://github.com/saebyn/rain) - A 2d HTML5/Coffeescript game
 * [RyanScottLewis/inflection-coffee](https://github.com/RyanScottLewis/inflection-coffee) - An (almost) direct port of InflectionJS written in CoffeeScript
-* [rquinlivan/bookmarklet-coffee](https://github.com/rquinlivan/bookmarklet-coffee) - Boilerplate for bookmarklet development with CoffeeScript
-* [royaldark/node-chat-demo](https://github.com/royaldark/node-chat-demo) - A hastily-assembled demo of a chat application built using Node, CoffeeScript and Backbone
 * [rodw/tiny-node.js-webserver](https://github.com/rodw/tiny-node.js-webserver) - A simple, standalone, single-file web server for static files implemented with node.js and CoffeeScript.
 * [rodbv/Project-Euler-in-CoffeeScript](https://github.com/rodbv/Project-Euler-in-CoffeeScript) - Implementing the Project Euler problems (http://projecteuler.net) in CoffeScript
 * [robey/d16bunny](https://github.com/robey/d16bunny) - DCPU-16 assembler written in coffeescript
 * [revskill/CoreJS](https://github.com/revskill/CoreJS) - MVC Web Application Framework for NodeJS written in CoffeeScript
 * [rev22/coffeemake](https://github.com/rev22/coffeemake) - Coffeescript-augmented 'make' tool
+* [reo7sp/reo-web-starter-kit](https://github.com/reo7sp/reo-web-starter-kit) - Boilerplate for sites
 * [recurving/grid](https://github.com/recurving/grid) - This is a simple grid layout class built with CoffeeScript.
 * [rcs/fuzzywordclock](https://github.com/rcs/fuzzywordclock) - A coffeescript library to generate human readable fuzzy clocks
 * [radekstepan/tableur](https://github.com/radekstepan/tableur) - Programmable CSV spreadsheets in CoffeeScript
@@ -740,78 +769,44 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [pjeby/autocreate](https://github.com/pjeby/autocreate) - "new"-less classes for ES7/Babel, TypeScript, CoffeeScript, etc.
 * [piinecone/discover-meteor-coffeescript](https://github.com/piinecone/discover-meteor-coffeescript) - Discover Meteor application written in CoffeeScript
 * [phstc/levenshtein](https://github.com/phstc/levenshtein) - Levenshtein distance implemented in CoffeeScript
-* [PhilVargas/tetris](https://github.com/PhilVargas/tetris) - Tetris built with ReactJS + CoffeeScript
-* [philschatz/oer.repo](https://github.com/philschatz/oer.repo) - A mock/prototype/"sprint" implementation of an OER Repository using node.js and CoffeeScript
-* [pfafman/meteor-coffee-alerts](https://github.com/pfafman/meteor-coffee-alerts) - A pattern to display application alerts via bootstrap to the user written in coffeescript
-* [PeterCxy/googler-coffee](https://github.com/PeterCxy/googler-coffee) - Port of the Python program 'Googler' to Node.Js with CoffeeScript
 * [pennlabs/registrar](https://github.com/pennlabs/registrar) - A CoffeeScript modules that scrapes the UPenn Registrar
 * [panta/rib](https://github.com/panta/rib) - Rib is a lightweight CoffeeScript foundation library.
 * [pandastrike/bartlett](https://github.com/pandastrike/bartlett) - A functional recursive descent parser library in CoffeeScript
-* [ollym/jails](https://github.com/ollym/jails) - A javascript implementation of all the in-built ruby methods written for/in CoffeeScript
+* [opus1269/linter-polymer](https://github.com/opus1269/linter-polymer) - Polymer linter for Atom the Hackable Text Editor
 * [ocanbascil/euler-coffeescript](https://github.com/ocanbascil/euler-coffeescript) - Tackling Project Euler using Coffeescript
 * [OakRaven/marionette-tutorial](https://github.com/OakRaven/marionette-tutorial) - Backbone Marionette Tutorial with CoffeeScript
-* [nikita-volkov/Robusta](https://github.com/nikita-volkov/Robusta) - A CoffeeScript transcompiler that introduces a packaging system and support for convenient import statements
 * [nightire/ember-starter](https://github.com/nightire/ember-starter) - HTML5 + Ember.js + CoffeeScript + Mocha/Chai/Karma + Sass/Compass/Susy + Grunt
-* [nicholastay/twitch-html5](https://github.com/nicholastay/twitch-html5) - A viewer/chat client for the browser, in HTML5/CoffeeScript (hosted with node.js)
-* [nh2/empty-angular-project](https://github.com/nh2/empty-angular-project) - A browser project template using: angular, coffeescript, stylus, testacular, bower, grunt.
 * [newmana/ft-coffeescript](https://github.com/newmana/ft-coffeescript) - Finger Trees implemented in CoffeeScript
 * [nerdenough/coffee-express-boilerplate](https://github.com/nerdenough/coffee-express-boilerplate) - A boilerplate CoffeeScript/Express template
 * [nayutaya/lamjet](https://github.com/nayutaya/lamjet) - AWS Lambda + Jasmine + CoffeeScript = Lamjet!
 * [nategood/cm19a](https://github.com/nategood/cm19a) - Javascript/Coffeescript support for CM19A X10 USB transceiver
 * [mzur/coffee-dev-grunt](https://github.com/mzur/coffee-dev-grunt) - A small setup for developing a CoffeeScript application with TDD
 * [mybuddymichael/coke](https://github.com/mybuddymichael/coke) - Coke is a CoffeeScript/canvas game experiment.
-* [mudassir0909/node-ember-brunch](https://github.com/mudassir0909/node-ember-brunch) - Brunch skeleton with following support ExpressJS(NodeJS Framework), EmberJS, Coffeescript, Twitter-Bootstrap, Font-Awesome, SASS
 * [msutherl/secco](https://github.com/msutherl/secco) - minimalist static site generator in coffeescript
-* [mschuetz/coffee-wiki](https://github.com/mschuetz/coffee-wiki) - a simple wiki implemented using coffeescript, nodejs, mustache, mongodb and markdown
 * [mpatric/canvas-snake-coffeescript](https://github.com/mpatric/canvas-snake-coffeescript) - Simple CoffeeScript snake game on an html canvas (canvas-snake rewritten in CoffeeScript)
-* [MNSLab/mns-calendar](https://github.com/MNSLab/mns-calendar) - Simple bootstrap calendar widget written with the use of jQuery & CoffeeScript with bindings for AngularJS.
-* [mikemclaren/express-coffee-quickstart](https://github.com/mikemclaren/express-coffee-quickstart) - A quick app with Express. Written in Coffeescript. A super easy boilerplate that won't need massive rewrites to work.
-* [mikekchar/Spacey](https://github.com/mikekchar/Spacey) - Spacey is a Coffeescript library implementing a review prioritisation system (including spaced repetition).
 * [mgeraci/jQuery-Life](https://github.com/mgeraci/jQuery-Life) - Conway's Game of Life in jQuery/Coffeescript and Canvas
 * [merwaaan/cheapo.js](https://github.com/merwaaan/cheapo.js) - A CHIP-8 emulator in CoffeeScript
-* [mdlawson/emvy](https://github.com/mdlawson/emvy) - A tiny MVVM framework built with coffeescript. Doesn't make a mess.
 * [mctenshi/vim-literate-coffeescript](https://github.com/mctenshi/vim-literate-coffeescript) - adds syntax highlighting and indentation support for Literate CoffeeScript
 * [McPants/jQuery-Coffeescript-Plugin-Template](https://github.com/McPants/jQuery-Coffeescript-Plugin-Template) - For anyone to use
-* [mcoms/jquery-raptorize-coffee](https://github.com/mcoms/jquery-raptorize-coffee) - Inspired by and compatable with ZURB's jQuery Raptorize Plugin, this is a CoffeeScript rewrite compatible with newer jQuery versions.
-* [mbraak/simple-widget](https://github.com/mbraak/simple-widget) - Simple-widget provides an easy way to make a jQuery widget in Coffeescript
 * [mattijs/Gammatron](https://github.com/mattijs/Gammatron) - UPnP MediaServer written in CoffeeScript for Node.js
 * [mattboldt/typed.coffee](https://github.com/mattboldt/typed.coffee) - Coffeescript port of Typed.js
 * [martinrehfeld/w14g-app](https://github.com/martinrehfeld/w14g-app) - What Was I Thinking // Twitter analysis -- CoffeeScript app
-* [lotterfriends/coffee-space](https://github.com/lotterfriends/coffee-space) - A little Space Shooter written in CoffeeScript
-* [lonelyplanet/AtlasTestRunner](https://github.com/lonelyplanet/AtlasTestRunner) - Plugin for Sublime Text 2 - runs RSpec, Cucumber and Coffeescript Jasmine tests.
 * [lmaccherone/jsduckify](https://github.com/lmaccherone/jsduckify) - Enables the use of Sencha's JSDuck for documenting CoffeeScript projects.
-* [lmaccherone/DoublyLinkedList](https://github.com/lmaccherone/DoublyLinkedList) - A doubly linked list implementation in CoffeeScript.
 * [life0fun/meteor-coffeescript](https://github.com/life0fun/meteor-coffeescript) - Meteor with coffeescript flavor for cubism graphite UI
 * [lidashuang/coffee-bbs](https://github.com/lidashuang/coffee-bbs) - [Closed] simple bbs write by coffeescript and node.js
-* [LesleyDuyndam/generator-coffee-sass](https://github.com/LesleyDuyndam/generator-coffee-sass) - A generator for Yeoman to scaffold CoffeeScript and SASS stack projects.
-* [lcaballero/check-that](https://github.com/lcaballero/check-that) - This is a little library that is very similar to Google's Guava checkArgs library, but for JavaScript / CoffeeScript.
 * [lazerwalker/CafeAuLait](https://github.com/lazerwalker/CafeAuLait) - A node.js library for Remember The Milk written in CoffeeScript
 * [lachezar/CoffeeScript-playground](https://github.com/lachezar/CoffeeScript-playground) - mini projects in CoffeScript
-* [KyleNeedham/countUp](https://github.com/KyleNeedham/countUp) - Lightweight, dependcy free, number counting animation written in CoffeeScript, based on countUp
-* [kylefox/js-image-filters](https://github.com/kylefox/js-image-filters) - Experimental image filtering with Canvas & CoffeeScript
 * [KyleAMathews/simple-brunch](https://github.com/KyleAMathews/simple-brunch) - My simple brunch skeleton for Coffeescript, Backbone, Sass/Compass projects
 * [koo5/coffeetime](https://github.com/koo5/coffeetime) - node.js CoffeeScript CLI timetracker
 * [koding/coffee-unused](https://github.com/koding/coffee-unused) - Find unused variables and imports in CoffeeScript files
-* [koalalorenzo/bitstamp-coffee-bot](https://github.com/koalalorenzo/bitstamp-coffee-bot) - Example of a working Bitcoin trading bot for Bitstamp using NodeJS and CoffeeScript
-* [klorenz/xikij](https://github.com/klorenz/xikij) - A Xiki Clone written in coffeescript intended to be used with Atom
 * [kkott00/ecballium](https://github.com/kkott00/ecballium) - Fully client-side BDD framework for coffeescript/javascript
-* [kirkbowers/mvcoffee](https://github.com/kirkbowers/mvcoffee) - MVCoffee is a lightweight client-side MVC framework written in CoffeeScript.
 * [kiberStender/fpJS](https://github.com/kiberStender/fpJS) - An Scala-like lib for Javascript projects made in CoffeeScript
-* [kevingriffin/taskerman](https://github.com/kevingriffin/taskerman) - A fun task manager for me to experiment with HTML5, CoffeeScript, etc
 * [kasperlanger/fatQuery](https://github.com/kasperlanger/fatQuery) - jQuery plugin making CoffeeScript integration even sweeter
-* [kamaln7/scrux](https://github.com/kamaln7/scrux) - A node.js to-do list app in Expressjs and CoffeeScript
 * [jwill/todo.txt-coffee](https://github.com/jwill/todo.txt-coffee) - CoffeeScript library for Todo.txt
-* [juanifioren/meteor-coffee-boilerplate](https://github.com/juanifioren/meteor-coffee-boilerplate) - Gives you a starting point for your new MeteorJS / Coffeescript project.
 * [jrundquist/express-boilerplate](https://github.com/jrundquist/express-boilerplate) - A boilerplate for a node.js / express / ejs / less / coffeescript / Heroku site
 * [joshholt/MongoTut](https://github.com/joshholt/MongoTut) - A MongoDB Tut using Node, Mongoose, Coffeescript
-* [jonsherrard/static-site](https://github.com/jonsherrard/static-site) - Static Site Generator using Cake, Coffeescript, Stylus and Jade. All views are handled with handlebars templates.
-* [jonasfj/BJSON.coffee](https://github.com/jonasfj/BJSON.coffee) - Coffeescript implementation of BJSON for browsers
-* [joeyrobert/ultimatetictactoe](https://github.com/joeyrobert/ultimatetictactoe) - Ultimate Tic-Tac-Toe is a variant on tic-tac-toe with a twist. Built using CoffeeScript.
 * [jezewski/AngularJS-Dry-Bones](https://github.com/jezewski/AngularJS-Dry-Bones) - AngularJS, CoffeeScript & HAML seed project using Grunt
 * [jensnockert/trueaudio.js](https://github.com/jensnockert/trueaudio.js) - TTA decoder in Coffeescript
-* [jcla1/hackernews](https://github.com/jcla1/hackernews) - Small coffeescript program that rates what hackernews posts you like using Bayesian algo
-* [javierjulio/node-hello-world](https://github.com/javierjulio/node-hello-world) - An example Node app written in CoffeeScript using Express, Jade and Stylus to learn Node.
-* [JasonGiedymin/cgol](https://github.com/JasonGiedymin/cgol) - CGOL is a Coffeescript implementation of Conway's Game of Life by Jason Giedymin.
 * [jared/Node-Beginner-Book-in-Coffeescript](https://github.com/jared/Node-Beginner-Book-in-Coffeescript) - A learning exercise in writing Coffeescript, using the Node Beginner book as a guide.
 * [Janiczek/cfs-chip8](https://github.com/Janiczek/cfs-chip8) - CHIP-8 interpreter written in CoffeeScript
 * [jakepanitz/linear-algebra](https://github.com/jakepanitz/linear-algebra) - Linear algebra library for node.js - written in coffeescript
@@ -821,13 +816,11 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [iShafayet/en-coffee](https://github.com/iShafayet/en-coffee) - evolvenode coffeescript plugin
 * [iShafayet/algorithms-in-coffeescript](https://github.com/iShafayet/algorithms-in-coffeescript) - Implementing many of the commonly used algorithms in coffee-script.
 * [integromat/simdom](https://github.com/integromat/simdom) - JavaScript library for CoffeeScript developers.
-* [iljoo/jquery.personnummer.js](https://github.com/iljoo/jquery.personnummer.js) - jQuery plugin to validate Swedish personal number (personnummer) written i CoffeeScript.
 * [icflorescu/aspax-coffee-handler](https://github.com/icflorescu/aspax-coffee-handler) - Plugin enabling ASPAX to handle CoffeeScript files.
 * [hokaccha/linter-coffeescript](https://github.com/hokaccha/linter-coffeescript) - Linter plugin for CoffeeScript in the Atom text editor
 * [helloworldopen/hwo-bot-bootstrap-coffeescript](https://github.com/helloworldopen/hwo-bot-bootstrap-coffeescript) - Hello World Open Coffeescript bot
 * [harpocrates/JavaSc-heme-ript-](https://github.com/harpocrates/JavaSc-heme-ript-) - Simple Scheme implementation written in CoffeeScript.
 * [hamishtaplin/Transition](https://github.com/hamishtaplin/Transition) - A CSS3 Transition API (with jQuery fallback) written in Coffeescript
-* [gsholtz/space-defenders](https://github.com/gsholtz/space-defenders) - A spaceship shooter game. Written in CoffeeScript, both client and server side.
 * [gruiz17/coffee-break](https://github.com/gruiz17/coffee-break) - Breakout/Arkanoid-style game done in coffeescript [mainProject]
 * [gromnitsky/coffee-inline-map](https://github.com/gromnitsky/coffee-inline-map) - Compile CoffeeScript files with inline source maps.
 * [giginet/Sockwaz](https://github.com/giginet/Sockwaz) - Sockwaz is live tweet viewer written in CoffeeScript.
@@ -843,25 +836,18 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [feisty/funky](https://github.com/feisty/funky) - extract paramater names from functions in JavaScript and CoffeeScript
 * [FarhadG/coffeescript-summons](https://github.com/FarhadG/coffeescript-summons) - A collection of CoffeeScript exercises to get you grooving.
 * [excellentdrums/norm](https://github.com/excellentdrums/norm) - ORM for Node.js written in CoffeeScript.
-* [ethanmick/hapi-starter](https://github.com/ethanmick/hapi-starter) - A template for creating a Node.js application using Hapi in CoffeeScript
-* [Enucatl/d3.base-chart](https://github.com/Enucatl/d3.base-chart) - base class for a reusable d3.js component written in coffeescript
-* [elrikdante/dude-on-a-map](https://github.com/elrikdante/dude-on-a-map) - Dragon ball Z | HTML 5 | Coffeescript. What more reason do you need to clone?
 * [elliotchance/sql2mql](https://github.com/elliotchance/sql2mql) - Pure coffeescript SQL to MongoDB statement parser.
-* [dragonwasrobot/gesture-recognition](https://github.com/dragonwasrobot/gesture-recognition) - Project for inferring various touch and object gestures using the TUIO protocol, CoffeeScript and node.js
 * [dragonwasrobot/brainfuck](https://github.com/dragonwasrobot/brainfuck) - A brainfuck interpreter written in CoffeeScript
 * [dogancelik/express-coffee-script](https://github.com/dogancelik/express-coffee-script) - :coffee: Easy to use CoffeeScript middleware for Express
 * [dnshi/Meteor-Boilerplate](https://github.com/dnshi/Meteor-Boilerplate) - This is a boilerplate for meteor with Jade, Stylus, and CoffeeScript
 * [dmitrig01/CoffeeRecord](https://github.com/dmitrig01/CoffeeRecord) - A CoffeeScript implementation of ActiveRecord
 * [djwglpuppy/instacoffee](https://github.com/djwglpuppy/instacoffee) - Simple Express Based CoffeeScript Boilerplate... Coffee / Stylus / Redis Sessions support
 * [debrouwere/bones-coffeescript-example](https://github.com/debrouwere/bones-coffeescript-example) - A Backbone.js + Bones example app
-* [davewasmer/express-nunjucks-boilerplate](https://github.com/davewasmer/express-nunjucks-boilerplate) - a starter kit for a simple express server using Coffeescript, Nunjucks for templating, and Bootstrap
 * [darkoverlordofdata/exspresso](https://github.com/darkoverlordofdata/exspresso) - An MVC Web Framework written in CoffeeScript.
 * [darkhelmet/compiler](https://github.com/darkhelmet/compiler) - Little less and coffeescript compiler webservice
 * [danielberlinger/learning_coffeescript](https://github.com/danielberlinger/learning_coffeescript) - Simple example integrating CoffeeScript, jQuery, and a simple Rack app.
-* [crowdplexus/litigo](https://github.com/crowdplexus/litigo) - A real-time commenting system for blogs and websites. Written with CoffeeScript, Node.JS and     Socket.IO.
 * [croquiscom/cmsx](https://github.com/croquiscom/cmsx) - CoffeeScript MSX Transformer
 * [copyhacker/5x5](https://github.com/copyhacker/5x5) - Sample app from the Prag Coffeescript book
-* [coderofsalvation/jsongraph](https://github.com/coderofsalvation/jsongraph) - minimalist dataflow programming with json based on jsonschema references (nodejs/coffeescript)
 * [Cidan/nodemud](https://github.com/Cidan/nodemud) - A MUD engine for NodeJS, written in Coffeescript
 * [christoomey/conway](https://github.com/christoomey/conway) - jQuery & coffeescript implementation of Conway's Game of Life
 * [chrissharkey/fire](https://github.com/chrissharkey/fire) - Coffeescript Fire Demo using the HTML5 Canvas
@@ -885,12 +871,83 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [andrevenancio/coffee-sass-grunt](https://github.com/andrevenancio/coffee-sass-grunt) - Simple tutorial on CoffeeScript and Sass and Grunt
 * [AndreasAugustin/CoffeeMind](https://github.com/AndreasAugustin/CoffeeMind) - Thie repository contains the game mastermind written in coffeescript
 * [amber/scene](https://github.com/amber/scene) - CoffeeScript user interface framework inspired by space-pen.
+* [yang/reactive-coffee](https://github.com/yang/reactive-coffee) - A lightweight CoffeeScript library/DSL for reactive programming and declaratively building scalable web UIs
+* [BookingBug/bookingbug-angular](https://github.com/BookingBug/bookingbug-angular) - BookingBug AngularJS SDK
+* [ranska/ng-base](https://github.com/ranska/ng-base) - base class files for using angularjs in coffeescript class
+* [artyomtrityak/grunt-file-coffee-template](https://github.com/artyomtrityak/grunt-file-coffee-template) - Gruntfile for CoffeeScript compilation, linting, UnitTesting and LiveReload
+* [phenomnomnominal/genie.coffee](https://github.com/phenomnomnominal/genie.coffee) - Easy Genetic Algorithms in CoffeeScript! (With WebWorkers!)
+* [ohjames/cc.gamer](https://github.com/ohjames/cc.gamer) - A high performance game engine, runs a Box2D physics engine in a Web Worker to take advantage of multiple CPUs. ABANDONED (CoffeeScript doesn't feel suitable for game programming).
+* [margh/mixmaster](https://github.com/margh/mixmaster) - A utility class for multiple inheritance in Coffeescript using mixins.
+* [jessepollak/gulp-express-coffee-sass](https://github.com/jessepollak/gulp-express-coffee-sass) - A Node start app with express, coffeescript, browserify, and sass
+* [jerryzou/JUpload](https://github.com/jerryzou/JUpload) - Resumable uploader with Node and jQuery. Written in CoffeeScript.
+* [epeli/browserify-cs-example](https://github.com/epeli/browserify-cs-example) - Browserify v2 with CoffeeScript Source Maps
+* [couchand/isomorphic-react-example](https://github.com/couchand/isomorphic-react-example) - an example isomorphic application written in CoffeeScript built with React
+* [Zaggen/coffee-DragSlider](https://github.com/Zaggen/coffee-DragSlider) - A nice coffeeScript slider, that enables dragging and nesting sliders inside each other.
+* [wittekm/Vellum](https://github.com/wittekm/Vellum) - Playing around with canvas and coffeescript. Because SDL is an evolutionary dead-end.
+* [WINTR/generator-basic](https://github.com/WINTR/generator-basic) - A Yeoman generator for creating simple web projects using Gulp, Coffeescript, Browserify, and Stylus.
+* [webmatze/mickrigtest-js](https://github.com/webmatze/mickrigtest-js) - MickrigTest.js is a minimal test system for JavaScript written in CoffeeScript
+* [vjpr/live-bootstrap](https://github.com/vjpr/live-bootstrap) - Express, Socket.IO w/ Auth, Everyauth w/ Facebook Connect, Mongoose, CoffeeScript, Haml-Coffee
+* [victusfate/html5_chaos](https://github.com/victusfate/html5_chaos) - chaos effect from http://29a.ch/2010/12/15/particle-chaos-html5-canvas-demo translated to coffeescript
+* [usirin/dstructures](https://github.com/usirin/dstructures) - Data structures with coffeescript. Practice, hopefully it will evolve as a good library.
+* [twilson63/zeke](https://github.com/twilson63/zeke) - A plug-able coffeescript template engine
+* [thomasloh/bookmarker-server](https://github.com/thomasloh/bookmarker-server) - Server side of a bookmarking service - Coffeescript, Sequelize (postgres), Social signins (passport) etc
+* [tcr/pour](https://github.com/tcr/pour) - A DSL for asynchronous programming in CoffeeScript
+* [stanfeldman/crawler.js](https://github.com/stanfeldman/crawler.js) - Web crawler in CoffeeScript on Node.js
+* [SnuggHome/react-starter-kit](https://github.com/SnuggHome/react-starter-kit) - A starter repo that includes Browserify, React, Express, Knex, Bootstrap and Coffeescript (including cjsx)
+* [Sitin/coffee-mix](https://github.com/Sitin/coffee-mix) - Mixins support for CoffeeScript.
+* [shinnn/generator-jade-frontmatter](https://github.com/shinnn/generator-jade-frontmatter) - [WORK IN PROGRESS] A static website boilerplate with Jade, CoffeeScript, Compass
+* [salsalabs/salsa-api](https://github.com/salsalabs/salsa-api) - An example of using the Salsa API in Coffeescript and Javascript.
+* [sagittaros/famo.us-gulp-seed](https://github.com/sagittaros/famo.us-gulp-seed) - (Famo.US + Browserify + Coffeescript + Gulp) Seed Project
+* [rquinlivan/bookmarklet-coffee](https://github.com/rquinlivan/bookmarklet-coffee) - Boilerplate for bookmarklet development with CoffeeScript
+* [royaldark/node-chat-demo](https://github.com/royaldark/node-chat-demo) - A hastily-assembled demo of a chat application built using Node, CoffeeScript and Backbone
+* [PhilVargas/tetris](https://github.com/PhilVargas/tetris) - Tetris built with ReactJS + CoffeeScript
+* [philschatz/oer.repo](https://github.com/philschatz/oer.repo) - A mock/prototype/"sprint" implementation of an OER Repository using node.js and CoffeeScript
+* [pfafman/meteor-coffee-alerts](https://github.com/pfafman/meteor-coffee-alerts) - A pattern to display application alerts via bootstrap to the user written in coffeescript
+* [PeterCxy/googler-coffee](https://github.com/PeterCxy/googler-coffee) - Port of the Python program 'Googler' to Node.Js with CoffeeScript
+* [ollym/jails](https://github.com/ollym/jails) - A javascript implementation of all the in-built ruby methods written for/in CoffeeScript
+* [nikita-volkov/Robusta](https://github.com/nikita-volkov/Robusta) - A CoffeeScript transcompiler that introduces a packaging system and support for convenient import statements
+* [nicholastay/twitch-html5](https://github.com/nicholastay/twitch-html5) - A viewer/chat client for the browser, in HTML5/CoffeeScript (hosted with node.js)
+* [nh2/empty-angular-project](https://github.com/nh2/empty-angular-project) - A browser project template using: angular, coffeescript, stylus, testacular, bower, grunt.
+* [mudassir0909/node-ember-brunch](https://github.com/mudassir0909/node-ember-brunch) - Brunch skeleton with following support ExpressJS(NodeJS Framework), EmberJS, Coffeescript, Twitter-Bootstrap, Font-Awesome, SASS
+* [mschuetz/coffee-wiki](https://github.com/mschuetz/coffee-wiki) - a simple wiki implemented using coffeescript, nodejs, mustache, mongodb and markdown
+* [MNSLab/mns-calendar](https://github.com/MNSLab/mns-calendar) - Simple bootstrap calendar widget written with the use of jQuery & CoffeeScript with bindings for AngularJS.
+* [mikemclaren/express-coffee-quickstart](https://github.com/mikemclaren/express-coffee-quickstart) - A quick app with Express. Written in Coffeescript. A super easy boilerplate that won't need massive rewrites to work.
+* [mikekchar/Spacey](https://github.com/mikekchar/Spacey) - Spacey is a Coffeescript library implementing a review prioritisation system (including spaced repetition).
+* [mdlawson/emvy](https://github.com/mdlawson/emvy) - A tiny MVVM framework built with coffeescript. Doesn't make a mess.
+* [mcoms/jquery-raptorize-coffee](https://github.com/mcoms/jquery-raptorize-coffee) - Inspired by and compatable with ZURB's jQuery Raptorize Plugin, this is a CoffeeScript rewrite compatible with newer jQuery versions.
+* [mbraak/simple-widget](https://github.com/mbraak/simple-widget) - Simple-widget provides an easy way to make a jQuery widget in Coffeescript
+* [lotterfriends/coffee-space](https://github.com/lotterfriends/coffee-space) - A little Space Shooter written in CoffeeScript
+* [lonelyplanet/AtlasTestRunner](https://github.com/lonelyplanet/AtlasTestRunner) - Plugin for Sublime Text 2 - runs RSpec, Cucumber and Coffeescript Jasmine tests.
+* [lmaccherone/DoublyLinkedList](https://github.com/lmaccherone/DoublyLinkedList) - A doubly linked list implementation in CoffeeScript.
+* [LesleyDuyndam/generator-coffee-sass](https://github.com/LesleyDuyndam/generator-coffee-sass) - A generator for Yeoman to scaffold CoffeeScript and SASS stack projects.
+* [lcaballero/check-that](https://github.com/lcaballero/check-that) - This is a little library that is very similar to Google's Guava checkArgs library, but for JavaScript / CoffeeScript.
+* [KyleNeedham/countUp](https://github.com/KyleNeedham/countUp) - Lightweight, dependcy free, number counting animation written in CoffeeScript, based on countUp
+* [kylefox/js-image-filters](https://github.com/kylefox/js-image-filters) - Experimental image filtering with Canvas & CoffeeScript
+* [koalalorenzo/bitstamp-coffee-bot](https://github.com/koalalorenzo/bitstamp-coffee-bot) - Example of a working Bitcoin trading bot for Bitstamp using NodeJS and CoffeeScript
+* [klorenz/xikij](https://github.com/klorenz/xikij) - A Xiki Clone written in coffeescript intended to be used with Atom
+* [kirkbowers/mvcoffee](https://github.com/kirkbowers/mvcoffee) - MVCoffee is a lightweight client-side MVC framework written in CoffeeScript.
+* [kevingriffin/taskerman](https://github.com/kevingriffin/taskerman) - A fun task manager for me to experiment with HTML5, CoffeeScript, etc
+* [kamaln7/scrux](https://github.com/kamaln7/scrux) - A node.js to-do list app in Expressjs and CoffeeScript
+* [juanifioren/meteor-coffee-boilerplate](https://github.com/juanifioren/meteor-coffee-boilerplate) - Gives you a starting point for your new MeteorJS / Coffeescript project.
+* [jonsherrard/static-site](https://github.com/jonsherrard/static-site) - Static Site Generator using Cake, Coffeescript, Stylus and Jade. All views are handled with handlebars templates.
+* [jonasfj/BJSON.coffee](https://github.com/jonasfj/BJSON.coffee) - Coffeescript implementation of BJSON for browsers
+* [joeyrobert/ultimatetictactoe](https://github.com/joeyrobert/ultimatetictactoe) - Ultimate Tic-Tac-Toe is a variant on tic-tac-toe with a twist. Built using CoffeeScript.
+* [jcla1/hackernews](https://github.com/jcla1/hackernews) - Small coffeescript program that rates what hackernews posts you like using Bayesian algo
+* [javierjulio/node-hello-world](https://github.com/javierjulio/node-hello-world) - An example Node app written in CoffeeScript using Express, Jade and Stylus to learn Node.
+* [JasonGiedymin/cgol](https://github.com/JasonGiedymin/cgol) - CGOL is a Coffeescript implementation of Conway's Game of Life by Jason Giedymin.
+* [iljoo/jquery.personnummer.js](https://github.com/iljoo/jquery.personnummer.js) - jQuery plugin to validate Swedish personal number (personnummer) written i CoffeeScript.
+* [gsholtz/space-defenders](https://github.com/gsholtz/space-defenders) - A spaceship shooter game. Written in CoffeeScript, both client and server side.
+* [ethanmick/hapi-starter](https://github.com/ethanmick/hapi-starter) - A template for creating a Node.js application using Hapi in CoffeeScript
+* [Enucatl/d3.base-chart](https://github.com/Enucatl/d3.base-chart) - base class for a reusable d3.js component written in coffeescript
+* [elrikdante/dude-on-a-map](https://github.com/elrikdante/dude-on-a-map) - Dragon ball Z | HTML 5 | Coffeescript. What more reason do you need to clone?
+* [dragonwasrobot/gesture-recognition](https://github.com/dragonwasrobot/gesture-recognition) - Project for inferring various touch and object gestures using the TUIO protocol, CoffeeScript and node.js
+* [davewasmer/express-nunjucks-boilerplate](https://github.com/davewasmer/express-nunjucks-boilerplate) - a starter kit for a simple express server using Coffeescript, Nunjucks for templating, and Bootstrap
+* [crowdplexus/litigo](https://github.com/crowdplexus/litigo) - A real-time commenting system for blogs and websites. Written with CoffeeScript, Node.JS and     Socket.IO.
+* [coderofsalvation/jsongraph](https://github.com/coderofsalvation/jsongraph) - minimalist dataflow programming with json based on jsonschema references (nodejs/coffeescript)
 * [alexgorbatchev/coffee-compiler](https://github.com/alexgorbatchev/coffee-compiler) - A handy CoffeeScript compiler from a series of compilers that have the same signature.
 * [adriand/where-is-my-dad](https://github.com/adriand/where-is-my-dad) - A simple "Where's Waldo" type game implemented in Coffeescript and canvas.
 * [abe33/neat](https://github.com/abe33/neat) - A command line tool for coffeescript and nodejs projects inspired by rails
 * [jonnor/agree](https://github.com/jonnor/agree) - Introspectable Contracts Programming for JavaScript/CoffeeScript
-* [olefriis/CoffeeScript-GeekNight](https://github.com/olefriis/CoffeeScript-GeekNight) - CoffeeScript code for geek night
-* [lorensr/backbone-coffee-todos](https://github.com/lorensr/backbone-coffee-todos) - The Backbone Todos example v0.9.2 in CoffeeScript
 * [zsombor/pousse](https://github.com/zsombor/pousse) - Artificial intelligence playing a French board game. Basically it does a lot of number crunching and alpha-beta based lookups to provide a strong game play. It also makes some nasty errors by keeping the stackframe around for an extended period thus preventing the handling of other events.  The excuse is that this runs in a terminal window,  where there are no other events (as opposed to browser or node.js process serving HTTP). This was a project to learn CoffeeScript, nothing more.
 * [xh3b4sd/clustr-node](https://github.com/xh3b4sd/clustr-node) - CoffeeScript cluster module to manage multi process cluster in NodeJs. Clustr is responseable for worker spawning and messaging between all processes. Clustr is designed for https://chatstorm.de.
 * [ryanpoplin/adminaa](https://github.com/ryanpoplin/adminaa) - It's a Backbone Administration Application with Brunch, CoffeeScript, Marionette, Parse (will possibly be replaced by an Express RESTful API in the future) and The S.O.T.J.S.N. Testing Suite for Client and Server Tests...
@@ -902,7 +959,6 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [Anachron/satisfy](https://github.com/Anachron/satisfy) - My personal playground. Uses Mimosa (buildtool), Marionette (Framework), RequireJS (+CSS, +HBS), Express (Server), Jade (Server-Template), Bower (Component Handling), CoffeeScript (JS-Metalang), LESS (CSS-Metalang), Semantic-UI (CSS-Framework), Node-ORM2 (ORM), Bone.IO (Web-Socket), mediator (Shared Client+Server Eventing) and more.
 * [shreeshga/coffeescript](https://github.com/shreeshga/coffeescript) - code written in coffeescript
 * [rrdelaney/codacy-coffeescript](https://github.com/rrdelaney/codacy-coffeescript) - :coffee: Offers coffeescript support for Codacy
-* [pushandplay/coffeescript](https://github.com/pushandplay/coffeescript) - CoffeeScript для чайников и не только
 * [ngbp/spell-coffeescript](https://github.com/ngbp/spell-coffeescript) - Adds CoffeeScript support to the Warlock spell for managing client-side webapps.
 * [huskycode/dojo-nodejs-coffeescript](https://github.com/huskycode/dojo-nodejs-coffeescript) - Dojo for NodeJS, CoffeeScript and Basic TDD
 * [haruair/express-coffeescript-generator](https://github.com/haruair/express-coffeescript-generator) - express-generator for coffeescript
@@ -990,7 +1046,6 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [quilljs/quill](https://github.com/quilljs/quill) - A cross browser rich text editor with an API
 * [baconjs/bacon.js](https://github.com/baconjs/bacon.js) - FRP (functional reactive programming) library for Javascript
 * [brunch/brunch](https://github.com/brunch/brunch) - Fast front-end web app build tool with simple declarative config, seamless incremental compilation for rapid development, an opinionated pipeline and workflow, and core support for source maps.
-* [codecombat/codecombat](https://github.com/codecombat/codecombat) - Multiplayer programming game for learning how to code.
 * [michaelvillar/dynamics.js](https://github.com/michaelvillar/dynamics.js) - Javascript library to create physics-based animations
 * [ichord/At.js](https://github.com/ichord/At.js) - Add Github like mentions autocomplete to your application.
 * [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
@@ -1011,7 +1066,6 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [NarrativeScience/Log.io](https://github.com/NarrativeScience/Log.io) - Real-time log monitoring in your browser
 * [dmotz/oriDomi](https://github.com/dmotz/oriDomi) - Fold up DOM elements like paper
 * [meltingice/CamanJS](https://github.com/meltingice/CamanJS) - Javascript HTML5 (Ca)nvas (Man)ipulation
-* [jkbrzt/cloudtunes](https://github.com/jkbrzt/cloudtunes) - Web-based music player for the cloud :cloud: :notes:
 * [sroze/ngInfiniteScroll](https://github.com/sroze/ngInfiniteScroll) - Infinite Scrolling for AngularJS
 * [soyjavi/QuoJS](https://github.com/soyjavi/QuoJS) - Micro #JavaScript Library for Mobile Devices
 * [devongovett/pdfkit](https://github.com/devongovett/pdfkit) - A JavaScript PDF generation library for Node and the browser
@@ -1021,7 +1075,6 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [McPants/jquery.shapeshift](https://github.com/McPants/jquery.shapeshift) - A dynamic grid system with drag and drop functionality.
 * [paradoxxxzero/butterfly](https://github.com/paradoxxxzero/butterfly) - A web terminal based on websocket and tornado
 * [HubSpot/BuckyClient](https://github.com/HubSpot/BuckyClient) - Collect performance data from the client. #hubspot-open-source
-* [Leonidas-from-XIV/node-xml2js](https://github.com/Leonidas-from-XIV/node-xml2js) - XML to JavaScript object converter.
 * [lynndylanhurley/ng-token-auth](https://github.com/lynndylanhurley/ng-token-auth) - Token based authentication module for angular.js.
 * [taigaio/taiga-front](https://github.com/taigaio/taiga-front) - Project management web application with scrum in mind! Built on top of Django and AngularJS (Front)
 * [oauth-io/oauthd](https://github.com/oauth-io/oauthd) - oauthd - The OAuth Daemon is the open source version of the OAuth.io core
@@ -1195,9 +1248,7 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [domenic/restify-oauth2](https://github.com/domenic/restify-oauth2) - A simple OAuth 2 endpoint for Restify
 * [binnng/slip.js](https://github.com/binnng/slip.js) - 移动端跟随手指滑动组件，零依赖。
 * [atom-archive/terminal](https://github.com/atom-archive/terminal) - Atom Terminal package - *not currently maintained*
-* [musicplayer-io/redditmusicplayer](https://github.com/musicplayer-io/redditmusicplayer) - :musical_note: A free and open-source streaming music web player using data from Reddit
 * [vidigami/backbone-orm](https://github.com/vidigami/backbone-orm) - A polystore ORM for Node.js and the browser
-* [oozcitak/xmlbuilder-js](https://github.com/oozcitak/xmlbuilder-js) - An XML builder for node.js
 * [SimbCo/httpster](https://github.com/SimbCo/httpster) - Simple http server for quick loading of content
 * [EtienneLem/skeleton](https://github.com/EtienneLem/skeleton) - Express 3.0 framework-less app structure generator
 * [vojtajina/node-di](https://github.com/vojtajina/node-di) - Dependency Injection framework for Node.js
@@ -1216,7 +1267,6 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [idottv/dependable](https://github.com/idottv/dependable) - A minimalist dependency injection framework for node.js
 * [thenikso/angular-inview](https://github.com/thenikso/angular-inview) - AngularJS directive to check if a DOM element is in the browser viewport.
 * [icambron/twix.js](https://github.com/icambron/twix.js) - A date range plugin for moment.js.
-* [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
 * [wakatime/atom-wakatime](https://github.com/wakatime/atom-wakatime) - Atom plugin to quantify your coding with automatic time tracking and metrics about your programming.
 * [SegmentFault/deploy-robot](https://github.com/SegmentFault/deploy-robot) - GitHub 自动部署机器人
 * [fahad19/singool](https://github.com/fahad19/singool) - Backbone.js based framework for developing single-page web applications
@@ -1235,7 +1285,6 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [mizchi/arda](https://github.com/mizchi/arda) - Meta-Flux Framework
 * [johnnyfreeman/revolver](https://github.com/johnnyfreeman/revolver) - A javascript library for building your own content slider.
 * [jclevy/chocolatejs](https://github.com/jclevy/chocolatejs) - Chocolate - Full stack and isomorphic Node.js web framework and online ide
-* [Glavin001/atom-beautify](https://github.com/Glavin001/atom-beautify) - :lipstick: Beautification abstraction package for Atom editor
 * [fluuuid/codedoodl.es](https://github.com/fluuuid/codedoodl.es) - A curated showcase of creative coding sketches
 * [axiomzen/Alike](https://github.com/axiomzen/Alike) - A simple-but-useful kNN library for NodeJS, comparing JSON Objects using Euclidean distances
 * [thiagopnts/unregistered](https://github.com/thiagopnts/unregistered) - Best Atom plugin for sublime text users
@@ -1300,7 +1349,6 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [yang/rel](https://github.com/yang/rel) - Arel ported to node js — with some changes
 * [netpro2k/hubot-skype](https://github.com/netpro2k/hubot-skype) - Skype adapter for hubot
 * [romanschejbal/gassetic](https://github.com/romanschejbal/gassetic) - Assetic replacement based on the gulp build tool
-* [markstory/hubot-xmpp](https://github.com/markstory/hubot-xmpp) - XMPP adapter for Hubot
 * [ccd0/4chan-x](https://github.com/ccd0/4chan-x) - Adds various features to 4chan.
 * [judnich/Kosmos](https://github.com/judnich/Kosmos) - A virtual 3D universe in your web browser.
 * [rinh/fekit](https://github.com/rinh/fekit) - FE Toolkit
@@ -1319,7 +1367,6 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [sudhirj/simply-deferred](https://github.com/sudhirj/simply-deferred) - A deferred library for Node.js and the browser with a jQuery compatible API
 * [defunkt/Zen](https://github.com/defunkt/Zen) - Distraction free writing for Atom.
 * [vsivsi/meteor-job-collection](https://github.com/vsivsi/meteor-job-collection) - A persistent and reactive job queue for Meteor, supporting distributed workers that can run anywhere
-* [tamc/Sankey](https://github.com/tamc/Sankey) - A javascript library for drawing sankey / flow diagrams
 * [poooi/poi](https://github.com/poooi/poi) - Scalable KanColle browser and tool.
 * [mutewinter/tapas-with-ember](https://github.com/mutewinter/tapas-with-ember) - DEPRECATED: A Brunch skeleton for rapid Ember development. Including Ember installation scripts, environment-specific JS builds, generators, and Ember.vim support.
 * [danielbrodin/atom-project-manager](https://github.com/danielbrodin/atom-project-manager) - Project manager for the Atom editor
@@ -1538,7 +1585,6 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [tnwinc/htmldiff.js](https://github.com/tnwinc/htmldiff.js) - Diff algorithm that understands HTML, in the browser.
 * [naoya/boilerplate](https://github.com/naoya/boilerplate) - Application boilerplate for something
 * [linkedin/Backbone.TableView](https://github.com/linkedin/Backbone.TableView) - Backbone View to render collections as tables
-* [koding/kd](https://github.com/koding/kd) - UI Framework for web applications.
 * [KyleAMathews/react-markdown-textarea](https://github.com/KyleAMathews/react-markdown-textarea) - Component for React to create textareas for entering Markdown with built-in preview inspired by Github's design
 * [Kikobeats/array-future](https://github.com/Kikobeats/array-future) - A collection of Array prototypes prollyfills as proposition for ECMAScript 7.
 * [Chris911/Ask-Stack-Atom](https://github.com/Chris911/Ask-Stack-Atom) - Ask Stack Overflow for Atom
@@ -1703,7 +1749,6 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [welldan97/gumba](https://github.com/welldan97/gumba) - Gumba provides modern language features to your everyday shell scripting
 * [nielse63/jQuery-ResizeEnd](https://github.com/nielse63/jQuery-ResizeEnd) - A jQuery plugin to handle on resize end event handlers
 * [lorenzo-stoakes/Rainbow-Sort](https://github.com/lorenzo-stoakes/Rainbow-Sort) - Colourful sorting visualisation :)
-* [layerssss/manager-for-upyun](https://github.com/layerssss/manager-for-upyun) - 又拍云资源管理器
 * [kevinmehall/node-llvm](https://github.com/kevinmehall/node-llvm) - LLVM bindings for Node.JS
 * [kbroman/d3examples](https://github.com/kbroman/d3examples) - Examples of interactive graphics using d3.js
 * [hitode909/rokuga](https://github.com/hitode909/rokuga) - movie to animation gif converter
