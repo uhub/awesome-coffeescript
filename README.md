@@ -750,6 +750,7 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [cpsubrian/node-mvc-coffee](https://github.com/cpsubrian/node-mvc-coffee) - A boilterplate for a node.js app with MVC principles, mocha tests, and written in coffeescript
 * [couchand/isomorphic-react-example](https://github.com/couchand/isomorphic-react-example) - an example isomorphic application written in CoffeeScript built with React
 * [Cotidia/jest-react-coffeescript](https://github.com/Cotidia/jest-react-coffeescript) - A Jest unit test boilterplate for React & CoffeeScript
+* [danielbayley/jest-preset-coffeescript](https://github.com/danielbayley/jest-preset-coffeescript) - Easily write your Jests in CoffeeScript.
 * [Chadtech/elm-gulp-coffeescript-stylus-lodash-browserify-boilerplate](https://github.com/Chadtech/elm-gulp-coffeescript-stylus-lodash-browserify-boilerplate) - Chadtech's Elm Boilerplate
 * [CaryLandholt/atom-ng-classify-preview](https://github.com/CaryLandholt/atom-ng-classify-preview) - Snippets for Converting CoffeeScript classes to AngularJS modules with ng-classify
 * [cag/coffeegame](https://github.com/cag/coffeegame) - A game engine for CoffeeScript and HTML5.
