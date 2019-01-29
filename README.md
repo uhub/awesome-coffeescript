@@ -1852,3 +1852,4 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [heroku/semver.io](https://github.com/heroku/semver.io) - semver range resolution as a service
 * [atom/node-pathwatcher](https://github.com/atom/node-pathwatcher) - Path Watcher Node Module
 * [JanMiksovsky/quickui](https://github.com/JanMiksovsky/quickui) - QuickUI web component framework
+* [just-fine/fine.sh-cli](https://github.com/just-fine/fine.sh-cli) - Quick and elegant static website generator
