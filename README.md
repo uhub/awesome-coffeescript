@@ -1843,3 +1843,4 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [heroku/semver.io](https://github.com/heroku/semver.io) - semver range resolution as a service
 * [atom/node-pathwatcher](https://github.com/atom/node-pathwatcher) - Path Watcher Node Module
 * [JanMiksovsky/quickui](https://github.com/JanMiksovsky/quickui) - QuickUI web component framework
+* [laurentpayot/floweret](https://github.com/laurentpayot/floweret) - Runtime type system written specially for CoffeeScript
