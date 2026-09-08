@@ -310,8 +310,8 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [yongkangchen/remote-sync](https://github.com/yongkangchen/remote-sync) - Upload your files to remote host after every change. Both SCP/SFTP and FTP are supported.
 * [bigfive/atom-sublime-select](https://github.com/bigfive/atom-sublime-select) - Enable 'sublime style' multiline selection boxes to Atom editor http://atom.io
 * [atom-archive/terminal](https://github.com/atom-archive/terminal) - Atom Terminal package - *not currently maintained* *(archived)*
-* [avendael/atomic-emacs](https://github.com/avendael/atomic-emacs) - An atomic implementation of emacs keybindings for the Atom text editor.
 * [robinsloan/rnn-writer](https://github.com/robinsloan/rnn-writer) - Package for the Atom text editor that provides responsive, inline "autocomplete" powered by a recurrent neural network.
+* [avendael/atomic-emacs](https://github.com/avendael/atomic-emacs) - An atomic implementation of emacs keybindings for the Atom text editor.
 * [JunoLab/uber-juno](https://github.com/JunoLab/uber-juno) - Installer package for the Juno IDE
 * [atom/language-javascript](https://github.com/atom/language-javascript) - JavaScript language package for Atom *(archived)*
 * [defunkt/Zen](https://github.com/defunkt/Zen) - Distraction free writing for Atom.
@@ -966,7 +966,6 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [geordanr/xwing](https://github.com/geordanr/xwing) - Squad builder for the First Edition X-Wing Miniatures game by Fantasy Flight Games.
 * [butterproject/butter-desktop-angular](https://github.com/butterproject/butter-desktop-angular) - Angular version of butter-desktop
 * [gronostajo/drill2](https://github.com/gronostajo/drill2) - Browser-based multiple choice test learning assistant
-* [yui540/Shuvi](https://github.com/yui540/Shuvi) - フレームレスなYouTubeプレイヤー「Shuvi」 *(archived)*
 * [opinsys/walma](https://github.com/opinsys/walma) - Collaborative Whiteboard *(archived)*
 * [subvisual/tripl.it](https://github.com/subvisual/tripl.it) - A mobile application for sharing trip expenses with friends. Made with Meteor. *(archived)*
 * [mr-mig/webbooost](https://github.com/mr-mig/webbooost) - Chrome extension for faster web browsing.
@@ -1002,6 +1001,7 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [soswow/lobzik](https://github.com/soswow/lobzik) - Simple application for testing employee candidate code skills and knowledge. Currently it's more suitable for testing front-end, JavaScript/CoffeeScript developers.
 * [jawj/pigeonsim](https://github.com/jawj/pigeonsim) - Fly! Courtesy of this small project linking Kinect -> OpenNI -> Processing -> WebSockets -> CoffeeScript -> Google Earth API
 * [koostudios/kel](https://github.com/koostudios/kel) - A ridiculously simple markdown file-based website system built on Express, CoffeeScript and NodeJS
+* [yui540/Shuvi](https://github.com/yui540/Shuvi) - フレームレスなYouTubeプレイヤー「Shuvi」
 
 ## Graphics and Media
 
@@ -1438,6 +1438,8 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [flyingmachine/gratefulplace2](https://github.com/flyingmachine/gratefulplace2)
 * [polvo/polvo](https://github.com/polvo/polvo) - Polyvalent cephalopod mollusc.
 * [sgentle/chip](https://github.com/sgentle/chip)
+* [pbellon/tractatus-tree](https://github.com/pbellon/tractatus-tree) - Visualization of the Wittgenstein's tractatus logico-philosophicus *(archived)*
+* [shokai/hubot-rss-reader](https://github.com/shokai/hubot-rss-reader) - RSS Reader on Hubot
 * [atom/atomdoc](https://github.com/atom/atomdoc) - Atom's documentation parser for JavaScript / CoffeeScript *(archived)*
 * [andrzejsliwa/coffeeapp](https://github.com/andrzejsliwa/coffeeapp) - not needed any more, couchdb is handling of coffeescript natively https://github.com/bdionne/couchdb/commit/972da5ab71af3eaeb939314a973398b6fe3235a9
 * [yusugomori/deeplearning.coffee](https://github.com/yusugomori/deeplearning.coffee) - Simple JavaScript (CoffeeScript) codes implementing deep learning
