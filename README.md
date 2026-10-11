@@ -58,8 +58,6 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * Business and Domain
 	* [Finance and Trading](#finance-and-trading)
 	* [Business and Productivity](#business-and-productivity)
-* Science and Math
-	* [Scientific Computing](#scientific-computing)
 * [Other](#other)
 
 ## Learning and Reference
@@ -228,9 +226,9 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [alexspeller/ember-cli-coffees6](https://github.com/alexspeller/ember-cli-coffees6) - Makes using coffeescript nicer in ember-cli by supporting es6 syntax natively
 * [duncansmart/LessCoffee](https://github.com/duncansmart/LessCoffee) - LESS and CoffeeScript HTTP handlers for ASP.NET web sites *(archived)*
 * [kmalakoff/easy-bake](https://github.com/kmalakoff/easy-bake) - EasyBake enables CoffeeScript/JavaScript file-based configuration for your CoffeeScript library management needs (coffee compiling, compression, joining CoffeeScript + JavaScript files, headless testing for QUnit/Jasmine/NodeUnit, client/server version testing, etc).
-* [CaryLandholt/gulp-ng-classify](https://github.com/CaryLandholt/gulp-ng-classify) - Convert CoffeeScript classes to AngularJS modules with ng-classify
 * [soulwire/Coffee-Percolator](https://github.com/soulwire/Coffee-Percolator) - Use import directives in CoffeeScript to manage dependancies with this tasty CakeFile
 * [thesunny/shampoo](https://github.com/thesunny/shampoo) - The ultimate browserify task. Watches files for changes. Uses a cache for super speed (instant builds). CoffeeScript supported out of box. Alias mappings. Shimming. Everything in one easy to use package.
+* [CaryLandholt/gulp-ng-classify](https://github.com/CaryLandholt/gulp-ng-classify) - Convert CoffeeScript classes to AngularJS modules with ng-classify
 * [marquee/proto](https://github.com/marquee/proto) - A front-end web prototyping tool, combining markup (jade), script (coffeescript/cjsx), and style (stylus), into a served single page on-the-fly.
 
 ### Package Management
@@ -264,8 +262,8 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 
 * [AriaMinaei/pretty-error](https://github.com/AriaMinaei/pretty-error) - See node.js errors with less clutter
 * [mattinsler/longjohn](https://github.com/mattinsler/longjohn) - Long stack traces for node.js inspired by https://github.com/tlrobinson/long-stack-traces
-* [kiddkai/atom-node-debugger](https://github.com/kiddkai/atom-node-debugger) - A Nodejs Debugger For Atom *(archived)*
 * [ConradIrwin/async-profile](https://github.com/ConradIrwin/async-profile) - Asynchronous CPU profiling for node
+* [kiddkai/atom-node-debugger](https://github.com/kiddkai/atom-node-debugger) - A Nodejs Debugger For Atom *(archived)*
 * [electron/mini-breakpad-server](https://github.com/electron/mini-breakpad-server) - Minimum breakpad crash reports collecting server *(archived)*
 * [bayleedev/pry.js](https://github.com/bayleedev/pry.js) - :microscope: A REPL for Node.
 * [zalmoxisus/atom-redux-devtools](https://github.com/zalmoxisus/atom-redux-devtools) - Redux DevTools Atom package
@@ -304,8 +302,8 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [thiagopnts/unregistered](https://github.com/thiagopnts/unregistered) - :registered: Best Atom plugin for sublime text users
 * [coolwanglu/neovim-e](https://github.com/coolwanglu/neovim-e) - Electron UI for Neovim
 * [Gert-dev/php-ide-serenata](https://github.com/Gert-dev/php-ide-serenata) - Atom IDE package that integrates the Serenata server to provide PHP code assistance
-* [klorenz/atom-regex-railroad-diagrams](https://github.com/klorenz/atom-regex-railroad-diagrams) - display regex as railroad diagram, if cursor moves to it
 * [autocomplete-python/autocomplete-python](https://github.com/autocomplete-python/autocomplete-python) - Jedi based Python autocomplete for Atom
+* [klorenz/atom-regex-railroad-diagrams](https://github.com/klorenz/atom-regex-railroad-diagrams) - display regex as railroad diagram, if cursor moves to it
 * [thomaslindstrom/color-picker](https://github.com/thomaslindstrom/color-picker) - A color picker for the Atom Editor. Right click a color and select color picker to open it.
 * [yongkangchen/remote-sync](https://github.com/yongkangchen/remote-sync) - Upload your files to remote host after every change. Both SCP/SFTP and FTP are supported.
 * [bigfive/atom-sublime-select](https://github.com/bigfive/atom-sublime-select) - Enable 'sublime style' multiline selection boxes to Atom editor http://atom.io
@@ -328,41 +326,41 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [Peekmo/atom-autocomplete-php](https://github.com/Peekmo/atom-autocomplete-php) - Autocomplete for PHP in atom editor *(archived)*
 * [jcouyang/glist](https://github.com/jcouyang/glist) - Taking notes with :octocat: Gist from Atom
 * [andischerer/atom-keyboard-localization](https://github.com/andischerer/atom-keyboard-localization) - [DEPRECATED] Keyboard localization package for non US-Keyboard Layouts
-* [atom/language-php](https://github.com/atom/language-php) - PHP package for Atom *(archived)*
 * [Chris911/Ask-Stack-Atom](https://github.com/Chris911/Ask-Stack-Atom) - Ask Stack Overflow for Atom
-* [atom/language-c](https://github.com/atom/language-c) - C support in Atom *(archived)*
+* [atom/language-php](https://github.com/atom/language-php) - PHP package for Atom *(archived)*
 * [DavidLGoldberg/jumpy](https://github.com/DavidLGoldberg/jumpy) - The fastest way to jump around files and across visible panes in Atom
+* [atom/language-c](https://github.com/atom/language-c) - C support in Atom *(archived)*
 * [dundalek/atom-markdown-mindmap](https://github.com/dundalek/atom-markdown-mindmap) - Visualize markdown files as mindmaps in Atom editor
 * [atom/tabs](https://github.com/atom/tabs) - Tabs in Atom *(archived)*
 * [wavded/gedit-coffeescript](https://github.com/wavded/gedit-coffeescript) - gedit Syntax Highlighting for CoffeeScript files
 * [xndcn/symbols-tree-view](https://github.com/xndcn/symbols-tree-view) - A symbols view like taglist for Atom.io
 * [zargony/atom-language-rust](https://github.com/zargony/atom-language-rust) - Rust language support in Atom - LOOKING FOR MAINTAINER, see #144 *(archived)*
 * [edubkendo/atom-racer](https://github.com/edubkendo/atom-racer) - Intelligent code completion for Rust in the Atom Editor. Requires Racer.
-* [atom/language-html](https://github.com/atom/language-html) - HTML package for Atom *(archived)*
 * [MattFlower/organized](https://github.com/MattFlower/organized) - Outlining, scheduling, and todos inside of the Atom Editor
+* [atom/language-html](https://github.com/atom/language-html) - HTML package for Atom *(archived)*
 * [yasuyuky/autocomplete-clang](https://github.com/yasuyuky/autocomplete-clang) - *(archived)*
 * [atom/language-go](https://github.com/atom/language-go) - Go language package for Atom *(archived)*
-* [atom/atom-keymap](https://github.com/atom/atom-keymap) - Atom's selector-based keymap system *(archived)*
 * [skandasoft/browser-plus](https://github.com/skandasoft/browser-plus) - Browser For Atom
+* [atom/atom-keymap](https://github.com/atom/atom-keymap) - Atom's selector-based keymap system *(archived)*
 * [AtomLinter/linter-write-good](https://github.com/AtomLinter/linter-write-good) - An Atom linter interface for write-good. *(archived)*
 * [atom/language-gfm](https://github.com/atom/language-gfm) - GitHub Flavored Markdown in Atom *(archived)*
 * [atom/status-bar](https://github.com/atom/status-bar) - Status bar for Atom *(archived)*
 * [mattberkowitz/autoclose-html](https://github.com/mattberkowitz/autoclose-html) - Autoclose html tags in atom
-* [extrabacon/atom-turbo-javascript](https://github.com/extrabacon/atom-turbo-javascript) - Commands and snippets for faster Javascript and Typescript with the Atom Editor
 * [fankserver/atom-firepad](https://github.com/fankserver/atom-firepad) - Collaborative code editing with Atom + Firepad
 * [styczynski/atom-terminal-panel](https://github.com/styczynski/atom-terminal-panel) - Advanced terminal interface for Atom editor
+* [extrabacon/atom-turbo-javascript](https://github.com/extrabacon/atom-turbo-javascript) - Commands and snippets for faster Javascript and Typescript with the Atom Editor
 * [vincentcn/markdown-scroll-sync](https://github.com/vincentcn/markdown-scroll-sync) - Auto-scroll markdown-preview tab to match markdown source
 * [danhper/atomic-chrome-atom](https://github.com/danhper/atomic-chrome-atom) - Edit Chrome textareas in Atom
 * [aki77/atom-expand-region](https://github.com/aki77/atom-expand-region) - expanding selection *(archived)*
 * [crucialfelix/atom-supercollider](https://github.com/crucialfelix/atom-supercollider) - SuperCollider development environment for Atom.io
-* [lukehoban/atom-ide-flow](https://github.com/lukehoban/atom-ide-flow) - Atom IDE support for Flow
 * [raccy/japanese-wrap](https://github.com/raccy/japanese-wrap) - Atom package extend word wrap for Japanese text.
 * [bus-stop/Termination](https://github.com/bus-stop/Termination) - Integrated terminal for Atom. Looks like terminal-plus, acts like your native terminal (except every other Friday). Looking for collaborators! :-)
 * [EtienneLem/atom-rdio](https://github.com/EtienneLem/atom-rdio) - Adds Rdio controls to Atom and displays the currently playing song in the status bar *(archived)*
 * [randy3k/remote-atom](https://github.com/randy3k/remote-atom) - rmate for atom
+* [lukehoban/atom-ide-flow](https://github.com/lukehoban/atom-ide-flow) - Atom IDE support for Flow
 * [Qusic/atom-youcompleteme](https://github.com/Qusic/atom-youcompleteme) - YouCompleteMe for Atom Editor *(archived)*
-* [atom/language-todo](https://github.com/atom/language-todo) - TODO highlighting package for Atom *(archived)*
 * [joshwcomeau/nice-index](https://github.com/joshwcomeau/nice-index) - Atom package to rename `index.js` files to their parent directory names
+* [atom/language-todo](https://github.com/atom/language-todo) - TODO highlighting package for Atom *(archived)*
 * [f/atom-bootstrap3](https://github.com/f/atom-bootstrap3) - Twitter Bootstrap 3 Snippets for Atom
 * [abe33/atom-bezier-curve-editor](https://github.com/abe33/atom-bezier-curve-editor)
 * [abe33/atom-color-highlight](https://github.com/abe33/atom-color-highlight) - Highlights color declarations in files
@@ -377,13 +375,13 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [kepta/atom-css-to-inline](https://github.com/kepta/atom-css-to-inline) - Atom plugin for converting css to inline for react/JSX
 * [sjlevine/atom-slime](https://github.com/sjlevine/atom-slime) - Write lisp code efficiently with Atom
 * [mantrajs/mantrajs-atom-package](https://github.com/mantrajs/mantrajs-atom-package) - Mantra JS - Package for Atom
-* [atom/language-java](https://github.com/atom/language-java) - Java package for Atom *(archived)*
-* [edubkendo/atom-elm](https://github.com/edubkendo/atom-elm) - An atom package providing syntax highlighting and snippets for the Elm language.
 * [guileen/terminal-status](https://github.com/guileen/terminal-status) - Atom terminal status
 * [misfo/jim](https://github.com/misfo/jim) - Vim mode for Ace (Github & Cloud9's editor)
 * [neil-lindquist/SLIMA](https://github.com/neil-lindquist/SLIMA) - Superior Lisp Interactive Mode for Pulsar
 * [atom-archive/autocomplete](https://github.com/atom-archive/autocomplete) - See https://github.com/atom/autocomplete-plus for the package currently bundled with Atom *(archived)*
 * [atom/atom-space-pen-views](https://github.com/atom/atom-space-pen-views) - Atom SpacePen views that previously lived in core. *(archived)*
+* [atom/language-java](https://github.com/atom/language-java) - Java package for Atom *(archived)*
+* [edubkendo/atom-elm](https://github.com/edubkendo/atom-elm) - An atom package providing syntax highlighting and snippets for the Elm language.
 * [ioquatix/script-runner](https://github.com/ioquatix/script-runner) - This package will run various script files inside of Atom. It currently supports JavaScript, CoffeeScript, Ruby, and Python. You can add more. *(archived)*
 * [atom/language-coffee-script](https://github.com/atom/language-coffee-script) - CoffeeScript support in Atom *(archived)*
 * [caiogondim/js-console-sublime-snippets](https://github.com/caiogondim/js-console-sublime-snippets) - :computer: JavaScript and CoffeeScript Console snippets
@@ -435,8 +433,8 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [lega911/angular-light](https://github.com/lega911/angular-light) - Alight is a library for building interactive MVVM web interfaces/applications. (project is deprecated)
 * [mizchi/arda](https://github.com/mizchi/arda) - Meta-Flux Framework
 * [noflo/noflo-jekyll](https://github.com/noflo/noflo-jekyll) - Flow-based reimplementation of the Jekyll static site generator *(archived)*
-* [fahad19/singool](https://github.com/fahad19/singool) - Backbone.js based framework for developing single-page web applications
 * [jclevy/chocolatejs](https://github.com/jclevy/chocolatejs) - Chocolate - Full stack and isomorphic Node.js web framework and online ide
+* [fahad19/singool](https://github.com/fahad19/singool) - Backbone.js based framework for developing single-page web applications
 * [invisiblejs/invisible](https://github.com/invisiblejs/invisible) - Invisible.js: Reusable models for the client and the server
 * [efacilitation/eventric](https://github.com/efacilitation/eventric) - Minimalist JavaScript framework to build applications based on DDD, CQRS and Event Sourcing.
 * [meteor-activeroute/legacy](https://github.com/meteor-activeroute/legacy) - Active route helpers for the most popular routers in Meteor
@@ -499,7 +497,6 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 
 * [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
 * [mojs/mojs](https://github.com/mojs/mojs) - The motion graphics toolbelt for the web
-* [dropzone/dropzone](https://github.com/dropzone/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
 * [michaelvillar/dynamics.js](https://github.com/michaelvillar/dynamics.js) - Javascript library to create physics-based animations
 * [ichord/At.js](https://github.com/ichord/At.js) - Add Github like mentions autocomplete to your application.
 * [sorich87/bootstrap-tour](https://github.com/sorich87/bootstrap-tour) - Quick and easy product tours with Twitter Bootstrap Popovers
@@ -554,8 +551,8 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [wistia/fresh-url](https://github.com/wistia/fresh-url) - Drop this script on your page and enjoy the freshest of URLs *(archived)*
 * [bobtail-dev/bobtail](https://github.com/bobtail-dev/bobtail) - A lightweight CoffeeScript library/DSL for reactive programming and declaratively building scalable web UIs
 * [jawj/OverlappingMarkerSpiderfier-Leaflet](https://github.com/jawj/OverlappingMarkerSpiderfier-Leaflet) - Deals with overlapping markers in the Leaflet maps API, Google Earth-style
-* [awt2542/textLayer-for-Framer](https://github.com/awt2542/textLayer-for-Framer) - Framer.js module that simplifies the process of adding text to your prototypes.
 * [huacnlee/jquery.qeditor](https://github.com/huacnlee/jquery.qeditor) - This is a simple WYSIWYG editor with jQuery. *(archived)*
+* [awt2542/textLayer-for-Framer](https://github.com/awt2542/textLayer-for-Framer) - Framer.js module that simplifies the process of adding text to your prototypes.
 * [prajwalkman/angular-slider](https://github.com/prajwalkman/angular-slider) - (DEPRECATED) Slider directive implementation for AngularJS, without jQuery dependencies *(archived)*
 * [JohnyDays/react-credit-card](https://github.com/JohnyDays/react-credit-card) - React port of the display part of Card by @jessepollak
 * [mreq/slick-lightbox](https://github.com/mreq/slick-lightbox) - A lightbox wrapper for Ken's amazing slick carousel. *(archived)*
@@ -622,8 +619,8 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [KyleAMathews/react-retina-image](https://github.com/KyleAMathews/react-retina-image) - React component for serving high-resolution images to devices with retina displays
 * [brandly/angular-adaptive-backgrounds](https://github.com/brandly/angular-adaptive-backgrounds) - :sunrise_over_mountains: Surround a picture with its dominant color using a simple directive
 * [plapier/domflags-extension](https://github.com/plapier/domflags-extension) - A chrome extension to bookmark deeply nested DOM elements
-* [joshmtucker/OrientationEvents](https://github.com/joshmtucker/OrientationEvents) - Module for Framer Studio to handle device orientation events.
 * [TurkServer/meteor-tutorials](https://github.com/TurkServer/meteor-tutorials) - Create super cool animated tutorials for your Meteor app.
+* [joshmtucker/OrientationEvents](https://github.com/joshmtucker/OrientationEvents) - Module for Framer Studio to handle device orientation events.
 * [maccman/wysiwyg](https://github.com/maccman/wysiwyg)
 * [SE7ENSKY/group-css-media-queries](https://github.com/SE7ENSKY/group-css-media-queries) - CSS postprocessing: group media queries. Useful for postprocessing preprocessed CSS files.
 * [stakes/fluid-framer](https://github.com/stakes/fluid-framer) - Adds ability to dynamically scale and float elements in the browser window to Framer.js Layers.
@@ -631,15 +628,15 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [dnagir/knockout-rails](https://github.com/dnagir/knockout-rails) - KnockoutJS for Rails with Sweetness *(archived)*
 * [LumaPictures/meteor-jquery-datatables](https://github.com/LumaPictures/meteor-jquery-datatables) - Sort, page, and filter millions of records reactively.
 * [anjorweb/fastHtml](https://github.com/anjorweb/fastHtml) - psd 导出 html 的工具
-* [avocode/react-droparea](https://github.com/avocode/react-droparea) - Drag and Drop library for React
 * [webtempest/meteor-animate](https://github.com/webtempest/meteor-animate) - Easily perform CSS3 animations and transitions in Meteor.
+* [avocode/react-droparea](https://github.com/avocode/react-droparea) - Drag and Drop library for React
 * [marksteve/datamock.js](https://github.com/marksteve/datamock.js) - Adds mock data to your mockups
 * [naltatis/node-sprite](https://github.com/naltatis/node-sprite) - A CSS Sprite Generation Library with Stylus and Retina Support.
 * [simonexmachina/tabcordion](https://github.com/simonexmachina/tabcordion) - A jQuery plugin that transforms Bootstrap tabs to an accordion and vice versa. Useful for responsive mobile sites.
 * [subvisual/meteor-bender](https://github.com/subvisual/meteor-bender) - Animations in page transitions *(archived)*
 * [yogiben/meteor-autoform-file](https://github.com/yogiben/meteor-autoform-file) - Upload and manage files with #autoForm
-* [KyleAMathews/react-responsive-grid](https://github.com/KyleAMathews/react-responsive-grid) - Power tools for building responsive layouts with React
 * [joscha/gmailui](https://github.com/joscha/gmailui) - A GMail user interface library *(archived)*
+* [KyleAMathews/react-responsive-grid](https://github.com/KyleAMathews/react-responsive-grid) - Power tools for building responsive layouts with React
 * [richardbutler/node-spritesheet](https://github.com/richardbutler/node-spritesheet) - Sprite sheet generator for node.js and task for grunt.js
 * [salsita/jq-clipthru](https://github.com/salsita/jq-clipthru)
 * [markbates/jquery-bootstrap-pagination](https://github.com/markbates/jquery-bootstrap-pagination)
@@ -648,9 +645,9 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [MSchmidt/jquery-fullsizable](https://github.com/MSchmidt/jquery-fullsizable) - Take advantage of full available browser space to display images!
 * [amccollum/sel](https://github.com/amccollum/sel) - Sel is a tiny selector engine that has all of the power of Sizzle in about half the code size.
 * [bevry-archive/html5edit](https://github.com/bevry-archive/html5edit) - Lightweight R&D project surrounding HTML5's contenteditable feature *(archived)*
-* [parrotjs/parrotjs](https://github.com/parrotjs/parrotjs) - Browser features today. High-level wrapper for browser features.
 * [jsdf/react-layout](https://github.com/jsdf/react-layout) - Dynamic subview layout for React
 * [mycolorway/simple-uploader](https://github.com/mycolorway/simple-uploader) - A HTML5 upload component without UI
+* [parrotjs/parrotjs](https://github.com/parrotjs/parrotjs) - Browser features today. High-level wrapper for browser features.
 * [jawj/github-widget](https://github.com/jawj/github-widget) - Simple script to display own GitHub projects on a webpage, ordered by number of watchers
 * [monterail/angular-mighty-datepicker](https://github.com/monterail/angular-mighty-datepicker) - *(archived)*
 * [nataliemarleny/Casing](https://github.com/nataliemarleny/Casing) - The UI Framework for Framer Classic. Manages data, components and views *(archived)*
@@ -752,8 +749,8 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [rbrcurtis/cofmon](https://github.com/rbrcurtis/cofmon) - A coffeescript shell for mongodb.
 * [Radagaisus/Orpheus](https://github.com/Radagaisus/Orpheus) - A Small Object Model for Redis in CoffeeScript *(archived)*
 * [boiawang/sequelize-db-export-import](https://github.com/boiawang/sequelize-db-export-import) - Generater models from mysql db or import tables from models files
-* [naturalethic/coffee-mongo](https://github.com/naturalethic/coffee-mongo) - Model framework for Node.js + CoffeeScript + MongoDB
 * [agoragames/leaderboard-coffeescript](https://github.com/agoragames/leaderboard-coffeescript) - Leaderboards backed by Redis in CoffeeScript
+* [naturalethic/coffee-mongo](https://github.com/naturalethic/coffee-mongo) - Model framework for Node.js + CoffeeScript + MongoDB
 * [jysperm/Mabolo](https://github.com/jysperm/Mabolo) - Just a simple ORM of MongoDB API.
 * [sergeych/node-prego](https://github.com/sergeych/node-prego) - Minimalistic migrations & models for coffeescript, node.js and postgres
 
@@ -976,19 +973,18 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [hashify/hashify.me](https://github.com/hashify/hashify.me) - Store entire documents in URLs
 * [ujiro99/RedmineTimeTracker](https://github.com/ujiro99/RedmineTimeTracker) - Chrome/Electron app for tracking work time. *(archived)*
 * [linus/fullzurf](https://github.com/linus/fullzurf) - Chrome optimized for full-screen
-* [linus/foforous](https://github.com/linus/foforous) - Frontend for a Posterous blog, running on Node
 * [jeticg/Evangelion-Uebersicht-Widget](https://github.com/jeticg/Evangelion-Uebersicht-Widget) - Evangelion Style Übersicht Widget.
+* [linus/foforous](https://github.com/linus/foforous) - Frontend for a Posterous blog, running on Node
 * [frankrousseau/kyou](https://github.com/frankrousseau/kyou) - With Kyou, have a better knowledge of yourself
 * [lotem/rimekit](https://github.com/lotem/rimekit) - Rime Kit （已棄坑）
 * [forabi/aQuran](https://github.com/forabi/aQuran) - A mobile-optimized, cross-platform Quran app built with web technologies.
 * [nornagon/ircv](https://github.com/nornagon/ircv) - IRC inna Chrome app
 * [dennisreimann/Codeshelver](https://github.com/dennisreimann/Codeshelver) - Codeshelver lets you clean up your GitHub watchlist by storing repositories you would like to remember on your shelf. *(archived)*
-* [andrewminer/crafting-guide](https://github.com/andrewminer/crafting-guide) - The ultimate step-by-step guide to make anything in Minecraft *(archived)*
 * [cozy/cozy-emails](https://github.com/cozy/cozy-emails) - Email Client for Cozy *(archived)*
 * [felixhageloh/weather-widget](https://github.com/felixhageloh/weather-widget) - A weather widget for Übersicht
 * [ferro/ferro](https://github.com/ferro/ferro) - Do stuff with your keyboard in Chrome
-* [cnodejs/cnodejs-reader](https://github.com/cnodejs/cnodejs-reader) - CNode.js reader in React
 * [HelloZeroNet/ZeroTalk](https://github.com/HelloZeroNet/ZeroTalk) - ZeroTalk
+* [cnodejs/cnodejs-reader](https://github.com/cnodejs/cnodejs-reader) - CNode.js reader in React
 * [nylas/N1-Markdown-Composer](https://github.com/nylas/N1-Markdown-Composer) - An N1 plugin to write emails using markdown
 * [ttscoff/ubersicht-widgets](https://github.com/ttscoff/ubersicht-widgets)
 * [neelabhg/currency-arbitrage-graph](https://github.com/neelabhg/currency-arbitrage-graph) - Visualize arbitrage opportunities in foreign currency exchange.
@@ -1001,6 +997,7 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [soswow/lobzik](https://github.com/soswow/lobzik) - Simple application for testing employee candidate code skills and knowledge. Currently it's more suitable for testing front-end, JavaScript/CoffeeScript developers.
 * [jawj/pigeonsim](https://github.com/jawj/pigeonsim) - Fly! Courtesy of this small project linking Kinect -> OpenNI -> Processing -> WebSockets -> CoffeeScript -> Google Earth API
 * [koostudios/kel](https://github.com/koostudios/kel) - A ridiculously simple markdown file-based website system built on Express, CoffeeScript and NodeJS
+* [andrewminer/crafting-guide](https://github.com/andrewminer/crafting-guide) - The ultimate step-by-step guide to make anything in Minecraft
 * [yui540/Shuvi](https://github.com/yui540/Shuvi) - フレームレスなYouTubeプレイヤー「Shuvi」
 
 ## Graphics and Media
@@ -1109,8 +1106,8 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 
 * [keybase/node-client](https://github.com/keybase/node-client) - CLI for keybase.io written in/for Node.js *(archived)*
 * [joegoldbeck/mongoose-encryption](https://github.com/joegoldbeck/mongoose-encryption) - Simple encryption and authentication plugin for Mongoose
-* [keybase/proofs](https://github.com/keybase/proofs) - Public Keybase Proof System
 * [ChristopherA/revocable-self-signed-tls-certificates-hack](https://github.com/ChristopherA/revocable-self-signed-tls-certificates-hack) - As a proof-of-concept, we will show how easy it is to revoke a self-signed certificate using the bitcoin blockchain. This will also demonstrate how we may be able to use similar approaches for more advanced capabilities that current X.509 infrastructure do not.
+* [keybase/proofs](https://github.com/keybase/proofs) - Public Keybase Proof System
 * [alax/jsrp](https://github.com/alax/jsrp) - JavaScript implementation of the Secure Remote Password protocol
 
 ### Security Tools
@@ -1250,8 +1247,8 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 ### Date and Time
 
 * [icambron/twix.js](https://github.com/icambron/twix.js) - :hourglass::left_right_arrow: A date range plugin for moment.js
-* [myrne/performance-now](https://github.com/myrne/performance-now) - Implements performance.now (based on process.hrtime).
 * [icambron/moment-countdown](https://github.com/icambron/moment-countdown) - Use Countdown.js from Moment.js
+* [myrne/performance-now](https://github.com/myrne/performance-now) - Implements performance.now (based on process.hrtime).
 * [hijonathan/moment.twitter](https://github.com/hijonathan/moment.twitter) - A Twitter-like date formatter for moment.js
 * [OutlawAndy/relativeDate](https://github.com/OutlawAndy/relativeDate) - Angular.js service providing auto-updating, relative time labels like "about 1 minute ago"
 * [davidchambers/an.hour.ago](https://github.com/davidchambers/an.hour.ago) - A small utility which enables wonderfully expressive date and time manipulation in JavaScript
@@ -1369,19 +1366,10 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [omsmith/ims-lti](https://github.com/omsmith/ims-lti) - A node.js library implementing the IMS LTI tool providers' standards
 * [rockymadden/gap](https://github.com/rockymadden/gap) - :nut_and_bolt: Fix default Google Analytics tracking methodologies and track micro user behaviors. *(archived)*
 
-## Science and Math
-
-### Scientific Computing
-
-* [sagemathinc/cocalc](https://github.com/sagemathinc/cocalc) - CoCalc: Collaborative Calculation in the Cloud *(archived)*
-* [daraosn/oculus-drone](https://github.com/daraosn/oculus-drone) - Oculus Rift + AR Drone 2.0 controller with live video feed and head-motion controller.
-* [kbroman/qtlcharts](https://github.com/kbroman/qtlcharts) - R/qtlcharts: An R package for interactive QTL graphics
-* [NetLogo/Galapagos](https://github.com/NetLogo/Galapagos) - NetLogo model simulation visualizer (Beak) and the netlogoweb.org website 🐢
-* [raganwald/cafeaulife](https://github.com/raganwald/cafeaulife) - Gosper’s HashLife in CoffeeScript
-
 ## Other
 
 * [dansinker/tacofancy](https://github.com/dansinker/tacofancy) - community-driven taco repo. stars stars stars.
+* [sagemathinc/cocalc](https://github.com/sagemathinc/cocalc) - CoCalc: Collaborative Calculation in the Cloud *(archived)*
 * [boennemann/badges](https://github.com/boennemann/badges) - :flower_playing_cards: Readme Badges – Gotta catch 'em all
 * [rs/pushd](https://github.com/rs/pushd) - Blazing fast multi-protocol mobile and web push notification service
 * [jaymedavis/hubble](https://github.com/jaymedavis/hubble) - A dashboard that displays in the terminal
@@ -1391,6 +1379,7 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [agentvps/codo](https://github.com/agentvps/codo) - agentvps
 * [pimatic/pimatic](https://github.com/pimatic/pimatic) - A home automation server and framework for the raspberry pi running on node.js
 * [osuushi/Smooth.js](https://github.com/osuushi/Smooth.js) - Turn arrays into smooth functions.
+* [darkguy2008/parallelshell](https://github.com/darkguy2008/parallelshell) - Run multiple shell commands in parallel
 * [lucagrulla/node-tail](https://github.com/lucagrulla/node-tail) - The zero dependency Node.js module for tailing a file
 * [ottypes/json0](https://github.com/ottypes/json0) - Version 0 of the JSON OT type
 * [jrcryer/grunt-pagespeed](https://github.com/jrcryer/grunt-pagespeed) - Grunt plugin to run Google PageSpeed Insights as part of CI
@@ -1409,8 +1398,10 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [grahamjenson/hapiger](https://github.com/grahamjenson/hapiger) - HapiGer is an http-wrapper around the Good Enough Recommendation engine using the Hapi.js framework
 * [AriaMinaei/RenderKid](https://github.com/AriaMinaei/RenderKid) - Stylish console.log for node
 * [sagivo/accept-bitcoin](https://github.com/sagivo/accept-bitcoin) - Accept bitcoin payments using Node.js
+* [michaelficarra/commonjs-everywhere](https://github.com/michaelficarra/commonjs-everywhere) - :rainbow: minimal CommonJS browser bundler with aliasing, extensibility, and source maps
 * [stephenlacy/movel](https://github.com/stephenlacy/movel) - Móvel - Dashboard for Raspberry pi car computer
 * [carrot/ship](https://github.com/carrot/ship) - ⛔️ currently unmaintained ⛔️
+* [diegoaraos/oculus-drone](https://github.com/diegoaraos/oculus-drone) - Oculus Rift + AR Drone 2.0 controller with live video feed and head-motion controller.
 * [Ysheep666/starry](https://github.com/Ysheep666/starry) - starry.so 完成一个故事
 * [technoweenie/nubnub](https://github.com/technoweenie/nubnub) - Node.js PubSubHubbub client/server implementation
 * [msgflo/msgflo](https://github.com/msgflo/msgflo) - Distributed Flow-Based Programming via message queues
@@ -1428,25 +1419,32 @@ A curated list of awesome CoffeeScript frameworks, libraries and software.
 * [lancejpollard/mint.js](https://github.com/lancejpollard/mint.js) - NO LONGER SUPPORTED
 * [axiomzen/Look-Alike](https://github.com/axiomzen/Look-Alike) - A simple-yet-powerful KD-tree library for NodeJS, with support for lightning-fast k-Nearest Neighbour queries.
 * [bertelsmannstift/GED-VIZ](https://github.com/bertelsmannstift/GED-VIZ)
-* [vlandham/bubble_cloud](https://github.com/vlandham/bubble_cloud)
 * [cognitom/tokoro](https://github.com/cognitom/tokoro) - 住所緯度経度変換ライブラリ (ジオコーディング)
 * [HabitRPG/habitrpg-shared](https://github.com/HabitRPG/habitrpg-shared) - Shared resources useful for multiple HabitRPG repositories. Assets (sprites, imgs, etc), CSS, algorithms, and more.
+* [vlandham/bubble_cloud](https://github.com/vlandham/bubble_cloud)
 * [atom/node-pathwatcher](https://github.com/atom/node-pathwatcher) - Path Watcher Node Module *(archived)*
 * [fukayatsu/esarea](https://github.com/fukayatsu/esarea) - Enjoy (\( ⁰⊖⁰)/) markdown!
+* [kbroman/qtlcharts](https://github.com/kbroman/qtlcharts) - R/qtlcharts: An R package for interactive QTL graphics
 * [itsthatguy/gridwax](https://github.com/itsthatguy/gridwax)
 * [technoweenie/node-chain-gang](https://github.com/technoweenie/node-chain-gang)
 * [flyingmachine/gratefulplace2](https://github.com/flyingmachine/gratefulplace2)
 * [polvo/polvo](https://github.com/polvo/polvo) - Polyvalent cephalopod mollusc.
 * [sgentle/chip](https://github.com/sgentle/chip)
+* [jgphilpott/polyslice](https://github.com/jgphilpott/polyslice) - Where three.js comes to life, slice your creations into reality!
+* [NetLogo/Galapagos](https://github.com/NetLogo/Galapagos) - NetLogo model simulation visualizer (Beak) and the netlogoweb.org website 🐢
+* [chrmoritz/Troxel](https://github.com/chrmoritz/Troxel) - WebGL-based voxel viewer and editor
 * [pbellon/tractatus-tree](https://github.com/pbellon/tractatus-tree) - Visualization of the Wittgenstein's tractatus logico-philosophicus *(archived)*
+* [tasuki/side-by-side](https://github.com/tasuki/side-by-side) - Visual comparison of different translations of itemized texts; e.g. poems, bibles, etc.
 * [shokai/hubot-rss-reader](https://github.com/shokai/hubot-rss-reader) - RSS Reader on Hubot
 * [atom/atomdoc](https://github.com/atom/atomdoc) - Atom's documentation parser for JavaScript / CoffeeScript *(archived)*
 * [andrzejsliwa/coffeeapp](https://github.com/andrzejsliwa/coffeeapp) - not needed any more, couchdb is handling of coffeescript natively https://github.com/bdionne/couchdb/commit/972da5ab71af3eaeb939314a973398b6fe3235a9
 * [yusugomori/deeplearning.coffee](https://github.com/yusugomori/deeplearning.coffee) - Simple JavaScript (CoffeeScript) codes implementing deep learning
-* [alfrednerstu/fractional-design](https://github.com/alfrednerstu/fractional-design) - Fractional design leadership for mobile apps and web platforms. Embedded in your team, guiding strategy and execution from concept to launch.
 * [STRd6/zine](https://github.com/STRd6/zine) - DIY E-Zine and Operating System
+* [alfrednerstu/fractional-design](https://github.com/alfrednerstu/fractional-design) - Fractional design leadership for mobile apps and web platforms. Embedded in your team, guiding strategy and execution from concept to launch.
 * [Marak/xp](https://github.com/Marak/xp) - agile programming tools in Coffeescript
+* [raganwald/cafeaulife](https://github.com/raganwald/cafeaulife) - Gosper’s HashLife in CoffeeScript
 * [lynaghk/cassowary-coffee](https://github.com/lynaghk/cassowary-coffee) - CoffeeScript port of the Cassowary linear constraint solver
 * [coffee-js/index.coffee-js.org](https://github.com/coffee-js/index.coffee-js.org) - CoffeeScript 中文资源
 * [croquiscom/crojsdoc](https://github.com/croquiscom/crojsdoc) - A documentation generator for JavaScript and CoffeeScript *(archived)*
 * [toshok/coffeekit](https://github.com/toshok/coffeekit) - CoffeeScript bindings for OSX and IOS apis
+* [enyo/dropzone](https://github.com/enyo/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
